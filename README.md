@@ -1,4 +1,4 @@
-### Hey 👋🏽! I'm Tiffany, and here are some interesting facts about me.
+### Hey! 👋🏽 I'm Tiffany, and here are some interesting facts about me.
 
 I want to build cool stuff, and I hope to be able to do that with your team. As someone leveling up, I *do* have some lingering junior engineer habits that I am trying to shake.
 
