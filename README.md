@@ -1,7 +1,7 @@
 ### Hey! 👋🏽 I'm Tiffany, frontend engineer, cat herder, and baseball sommelier.
 
 <div align="center">
-  <img src="assets/crazy-kitty.gif" alt="kitty tumbles" />
+  <img src="https://p179.p0.n0.cdn.getcloudapp.com/items/d5uWdxX1/crazy-kitty.gif" alt="kitty tumbles" />
 </div>
 
 ## You settled? Good. Some rando facts about me.
