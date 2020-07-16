@@ -1,9 +1,7 @@
 ### Hey! 👋🏽 I'm Tiffany, frontend engineer, cat herder, and baseball sommelier.
 
 <div align="center">
-  <a href="#">
-    <img src="assets/crazy-kitty.gif" alt="kitty tumbles" />
-  </a>
+  <img src="assets/crazy-kitty.gif" alt="kitty tumbles" />
 </div>
 
 ## You settled? Good. Some rando facts about me.
@@ -16,7 +14,5 @@
 
 ## And, of course, #ForTheA ⚾️
 <div align="center">
-  <a href="#">
-    <img src="https://p179.p0.n0.cdn.getcloudapp.com/items/nOueyBKY/ronnie%20(1).gif?v=9be7be5acf562fee0f6a554048973bd2" alt="kitty tumbles" />
-  </a>
+  <img src="https://p179.p0.n0.cdn.getcloudapp.com/items/nOueyBKY/ronnie%20(1).gif" alt="ronnie biesbol" />
 </div>
