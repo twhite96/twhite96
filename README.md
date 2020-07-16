@@ -15,5 +15,5 @@
 ## And, of course, #ForTheA ⚾️
 
 <div align="center">
-  <img width="800" src="https://p179.p0.n0.cdn.getcloudapp.com/items/12uNZ6re/lossy-ronnie.gif" alt="ronnie biesbol" />
+  <img width="800" src="https://media.giphy.com/media/USgB0SEn6VpRSqZWGb/giphy.gif" alt="ronnie biesbol" />
 </div>
