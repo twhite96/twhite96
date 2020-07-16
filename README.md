@@ -14,4 +14,6 @@
 
 ## And, of course, #ForTheA ⚾️
 
-![Image](https://media.giphy.com/media/USgB0SEn6VpRSqZWGb/giphy.gif)
+div align="center">
+  <img src="https://p179.p0.n0.cdn.getcloudapp.com/items/ApuA28vD/ronnie-beisbol.gif" alt="ronnie beisbol" />
+</div>
