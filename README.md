@@ -15,5 +15,5 @@
 ## And, of course, #ForTheA ⚾️
 
 <div align="center">
-  <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/USgB0SEn6VpRSqZWGb" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/atlanta-braves-ronald-acuna-jr-ronnie-biesbol-USgB0SEn6VpRSqZWGb">via GIPHY</a></p>
+  <img src="https://p179.p0.n0.cdn.getcloudapp.com/items/nOueyw9W/Atlanta%20Braves%20GIF-downsized_large.gif" alt="ronnie beisbol" />
 </div>
