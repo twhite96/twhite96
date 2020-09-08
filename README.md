@@ -12,8 +12,8 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: [Cats are everything good and pure in this world](https://twhite96.github.io/v2/offline.html), even if I am allergic to them. (Can have one or two shorthairs. Anymore than that I'll asphyxiate 🙁)
 
-## And, of course, #ForTheA ⚾️
+## Recent Posts
 
-<div align="center">
-  <img src="https://p179.p0.n0.cdn.getcloudapp.com/items/ApuA28vD/ronnie-beisbol.gif" alt="ronnie beisbol" />
-</div>
+<!--START_SECTION:feed-->
+
+<!--END_SECTION:feed-->
