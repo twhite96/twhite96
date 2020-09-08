@@ -1,4 +1,4 @@
-### Hey! 👋🏽 I'm Tiffany, frontend engineer, cat herder, and baseball sommelier.
+### Hey! 👋🏽 I'm Tiffany, frontend engineer with full stack experience, cat herder, and baseball sommelier.
 
 <div align="center">
   <img src="https://p179.p0.n0.cdn.getcloudapp.com/items/d5uWdxX1/crazy-kitty.gif" alt="kitty tumbles" />
