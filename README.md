@@ -15,5 +15,4 @@
 ## Recent Posts
 
 <!--START_SECTION:feed-->
-
 <!--END_SECTION:feed-->
