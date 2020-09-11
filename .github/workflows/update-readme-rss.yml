@@ -15,7 +15,7 @@ jobs:
           feed-url: https://tiffanywhite.dev/feed.xml
           readme-section: feed
           max: 10
-          template: "* #### [{{ title }}]({{ link }})\n\n"
+          template: "* #### [{{ title }}]({{ link }})\n"
 
       # - uses: JasonEtco/rss-to-readme@v1
       #   with:
