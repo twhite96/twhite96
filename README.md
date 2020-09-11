@@ -19,11 +19,6 @@
 * [Flexing My CSS Muscles by Adding A Bit of Panache](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;06&#x2F;26&#x2F;flexing-my-css-muscles-by-adding-a-bit-of-panache&#x2F;)
 * [CodePen for Quick and Dirty Prototypes for Learning CSS](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;05&#x2F;25&#x2F;codepen-for-quick-and-dirty-prototypes-for-learning-css&#x2F;)
 * [CSS Will Never Go Out of Style](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;03&#x2F;19&#x2F;css-will-never-go-out-of-style&#x2F;)
-* [Laid Off But Leveled Up, Lessons Learned](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;03&#x2F;14&#x2F;laid-off-but-leveled-up-lessons-learned&#x2F;)
-* [On Being Laid Off: Some Thoughts](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;03&#x2F;04&#x2F;on-being-laid-off-some-thoughts&#x2F;)
-* [Piping in a Node API from Glitch to a React Frontend](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;01&#x2F;31&#x2F;piping-in-a-node-api-from-glitch-to-a-react-frontend&#x2F;)
-* [Building A Small Node API On Glitch](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;01&#x2F;31&#x2F;building-a-small-node-api-on-glitch&#x2F;)
-* [Five Years a Dev: 5 Year Anniversary of Tiffany R. White Blog](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;01&#x2F;15&#x2F;five-years-a-dev-5-year-anniversary-of-tiffany-r-white-blog&#x2F;)
 <!--END_SECTION:feed-->
 
 
