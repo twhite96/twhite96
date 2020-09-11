@@ -1,7 +1,7 @@
 ### Hey! 👋🏽 I'm Tiffany
-{% hint style="info" %}
-  I'm a frontend engineer with full stack experience, cat herder, and baseball sommelier.
-{% endhint %}
+
+> I'm a frontend engineer with full stack experience, cat herder, and baseball sommelier.
+
 
 ## You settled? Good. Some rando facts about me.
 - 🔭 I’m currently working on my book finder app that uses Google Books API and [Check Yo Self](https://check-yoself.app/), an app to check your markdown for spelling and grammar errors, currently an MVP.
@@ -47,6 +47,7 @@
 * [Too Old for The Startup Merry-go-round](https:&#x2F;&#x2F;goodfirstissue.org&#x2F;episodes&#x2F;too-old-for-the-startup-merry-go-round-wR5slbvk)
 <!--END_SECTION:podcasts-->
 
+*Here is a cat that is more athletic than most. You're welcome.*
 
 <div align="center">
   <img src="https://p179.p0.n0.cdn.getcloudapp.com/items/d5uWdxX1/crazy-kitty.gif" alt="kitty tumbles" />
