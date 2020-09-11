@@ -15,7 +15,6 @@ jobs:
         with:
           feed-url: https://tiffanywhite.dev/feed.xml
           readme-section: feed
-          max: 10
 
       - uses: JasonEtco/rss-to-readme@v1
         with:
