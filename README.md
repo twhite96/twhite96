@@ -26,3 +26,9 @@
 * #### [Building A Small Node API On Glitch](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;01&#x2F;31&#x2F;building-a-small-node-api-on-glitch&#x2F;)
 * #### [Five Years a Dev: 5 Year Anniversary of Tiffany R. White Blog](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;01&#x2F;15&#x2F;five-years-a-dev-5-year-anniversary-of-tiffany-r-white-blog&#x2F;)
 <!--END_SECTION:feed-->
+
+
+## Recent Newsletters
+
+<!--START_SECTION:newsletters-->
+<!--END_SECTION:newsletters-->

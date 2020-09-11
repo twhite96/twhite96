@@ -1,10 +1,10 @@
 name: Update readme with blog posts
 on: 
+  schedule:
+    Once a day at 8 AM
+    - cron: 0 8 * * *
   push:
     branches: [ master ]
-  # schedule:
-    # Once a day at 8 AM
-    # - cron: 0 8 * * *
 
 jobs:
   update:
@@ -15,9 +15,9 @@ jobs:
           feed-url: https://tiffanywhite.dev/feed.xml
           readme-section: feed
           max: 10
-          template: "* #### [{{ title }}]({{ link }})"
+          template: "- #### [{{ title }}]({{ link }})"
 
-      # - uses: JasonEtco/rss-to-readme@v1
-      #   with:
-      #     feed-url: https://lukelowrey.com/notes/rss/
-      #     readme-section: notes
+      - uses: JasonEtco/rss-to-readme@v1
+        with:
+          feed-url: https://buttondown.email/tiffanywhite/rss
+          readme-section: newsletters
