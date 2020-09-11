@@ -3,7 +3,7 @@
 > I'm a frontend engineer with full stack experience, cat herder, and baseball sommelier.
 
 
-## You settled? Good. Some rando facts about me.
+## You settled? Good. Some facts about me.
 - 🔭 I’m currently working on my book finder app that uses Google Books API and [Check Yo Self](https://check-yoself.app/), an app to check your markdown for spelling and grammar errors, currently an MVP.
 - 🌱 I’m currently learning GraphQL, Go, Typescript, and brushing up pn React core concepts
 - 🤔 I’m looking for help with getting up and running with more complex React/frontend engineering ideas and paradigms.
