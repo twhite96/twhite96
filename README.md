@@ -1,9 +1,9 @@
 ### Hey! 👋🏽 I'm Tiffany
 
-> I'm a frontend engineer with full stack experience, cat herder, and baseball sommelier.
+> I'm a frontend engineer with full stack experience, cat herder, and baseball sommelier. ⚾
 
 
-## You settled? Good. Some facts about me.
+## You settled? Good. Some facts about me. ☕
 - 🔭 I’m currently working on my book finder app that uses Google Books API and [Check Yo Self](https://check-yoself.app/), an app to check your markdown for spelling and grammar errors, currently an MVP.
 - 🌱 I’m currently learning GraphQL, Go, Typescript, and brushing up pn React core concepts
 - 🤔 I’m looking for help with getting up and running with more complex React/frontend engineering ideas and paradigms.
@@ -11,7 +11,7 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: [Cats are everything good and pure in this world](https://twhite96.github.io/v2/offline.html), even if I am allergic to them. (Can have one or two shorthairs. Anymore than that I'll asphyxiate 🙁)
 
-## Recent Posts
+## Recent Posts 📝
 
 <!--START_SECTION:feed-->
 * [Dev Research, A Zettelkasten](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;08&#x2F;03&#x2F;dev-research-a-zettelkasten&#x2F;)
@@ -27,7 +27,7 @@
 <!--END_SECTION:feed-->
 
 
-## Recent Newsletters
+## Recent Newsletters 📰
 
 <!--START_SECTION:newsletters-->
 * [Sometimes Sh!t Happens](https:&#x2F;&#x2F;buttondown.email&#x2F;tiffanywhite&#x2F;archive&#x2F;sometimes-sht-happens&#x2F;)
@@ -37,7 +37,7 @@
 * [My First Module: Lessons](https:&#x2F;&#x2F;buttondown.email&#x2F;tiffanywhite&#x2F;archive&#x2F;my-first-module-lessons&#x2F;)
 <!--END_SECTION:newsletters-->
 
-## Recent Podcasts
+## Recent Podcasts 🎙️
 
 <!--START_SECTION:podcasts-->
 * [The Ying and Yang of Fear](https:&#x2F;&#x2F;goodfirstissue.org&#x2F;episodes&#x2F;the-ying-and-yang-of-fear-Y6Fq0dxW)
