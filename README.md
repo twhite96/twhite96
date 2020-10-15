@@ -13,11 +13,11 @@
 ## Recent Posts 📝
 
 <!--START_SECTION:feed-->
+* [Real Artists Ship: Portfolio Finished](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;10&#x2F;12&#x2F;real-artists-ship&#x2F;)
 * [Hooked on Hooks: Portfolio Madness](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;09&#x2F;14&#x2F;hooked-on-hooks-portfolio-madness&#x2F;)
 * [Dev Research, A Zettelkasten](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;08&#x2F;03&#x2F;dev-research-a-zettelkasten&#x2F;)
 * [Portfolio Redesign Part 1: Ideas](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;07&#x2F;08&#x2F;portfolio-redesign-part-1-ideas&#x2F;)
 * [Flexing My CSS Muscles by Adding A Bit of Panache](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;06&#x2F;26&#x2F;flexing-my-css-muscles-by-adding-a-bit-of-panache&#x2F;)
-* [CodePen for Quick and Dirty Prototypes for Learning CSS](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;05&#x2F;25&#x2F;codepen-for-quick-and-dirty-prototypes-for-learning-css&#x2F;)
 <!--END_SECTION:feed-->
 
 
