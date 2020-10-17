@@ -34,11 +34,11 @@
 ## Recent Podcasts 🎙️
 
 <!--START_SECTION:podcasts-->
+* [Things You Love to See: Growth and Maturity](https:&#x2F;&#x2F;goodfirstissue.org&#x2F;episodes&#x2F;things-you-love-to-see-growth-and-maturity-95QmC18G)
 * [The Ying and Yang of Fear](https:&#x2F;&#x2F;goodfirstissue.org&#x2F;episodes&#x2F;the-ying-and-yang-of-fear-Y6Fq0dxW)
 * [Links on LinkedIn](https:&#x2F;&#x2F;goodfirstissue.org&#x2F;episodes&#x2F;links-on-linkedin-H5YAopRf)
 * [The Second Cut is the Deepest](https:&#x2F;&#x2F;goodfirstissue.org&#x2F;episodes&#x2F;the-second-cut-is-the-deepest-ottg2qQJ)
 * [0.3: Sometimes, You Just Get Lucky](https:&#x2F;&#x2F;goodfirstissue.org&#x2F;episodes&#x2F;03-sometimes-you-just-get-lucky-NYmM1OS1)
-* [Too Old for The Startup Merry-go-round](https:&#x2F;&#x2F;goodfirstissue.org&#x2F;episodes&#x2F;too-old-for-the-startup-merry-go-round-wR5slbvk)
 <!--END_SECTION:podcasts-->
 
 *Here is a cat that is more athletic than most. You're welcome.*
