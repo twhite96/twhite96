@@ -1,4 +1,4 @@
-### Hey! 👋🏽 I'm Tiffany
+### Hey! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi"> I'm Tiffany
 
 > I'm a frontend engineer with full stack experience, cat herder, and baseball sommelier. ⚾
 
@@ -41,8 +41,24 @@
 * [0.3: Sometimes, You Just Get Lucky](https:&#x2F;&#x2F;goodfirstissue.org&#x2F;episodes&#x2F;03-sometimes-you-just-get-lucky-NYmM1OS1)
 <!--END_SECTION:podcasts-->
 
-*Here is a cat that is more athletic than most. You're welcome.*
+
+<details>
+  <summary>
+    GitHub stats
+  </summary>
+  <br >
+
+ #### Stats and stuff
+ ![Tiffany's's github stats](https://github-readme-stats.vercel.app/api?username=twhite96&theme=radical&show_icons=true&count_private=true)
+</details>
+
+<!-- <br >
+<br >
+<br >
+<br > -->
+
+<!-- #### Here is a cat that is more athletic than most of us. You're welcome.
 
 <div align="center">
   <img src="https://p179.p0.n0.cdn.getcloudapp.com/items/d5uWdxX1/crazy-kitty.gif" alt="kitty tumbles" />
-</div>
+</div> -->
