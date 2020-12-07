@@ -20,9 +20,4 @@ jobs:
         with:
           feed-url: https://buttondown.email/tiffanywhite/rss
           readme-section: newsletters
-
-      - uses: JasonEtco/rss-to-readme@v1
-        with:
-          feed-url: https://feeds.simplecast.com/8wiXbtTI
-          readme-section: podcasts
           
