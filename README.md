@@ -13,11 +13,11 @@
 ## Recent Posts 📝
 
 <!--START_SECTION:feed-->
+* [A Year of Reflection and a Year to Move Forward](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2021&#x2F;01&#x2F;07&#x2F;a-year-of-reflection-and-a-year-to-move-forward&#x2F;)
 * [Building a Static Site Generator with Ruby](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;12&#x2F;17&#x2F;building-a-static-site-generator-with-ruby&#x2F;)
 * [Real Artists Ship: Portfolio Finished](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;10&#x2F;12&#x2F;real-artists-ship&#x2F;)
 * [Hooked on Hooks: Portfolio Madness](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;09&#x2F;14&#x2F;hooked-on-hooks-portfolio-madness&#x2F;)
 * [Dev Research, A Zettelkasten](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;08&#x2F;03&#x2F;dev-research-a-zettelkasten&#x2F;)
-* [Portfolio Redesign Part 1: Ideas](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;07&#x2F;08&#x2F;portfolio-redesign-part-1-ideas&#x2F;)
 <!--END_SECTION:feed-->
 
 
