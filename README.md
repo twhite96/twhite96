@@ -4,7 +4,7 @@
 
 
 ## You settled? Good. Some facts about me. ☕
-- 🔭 I’m currently working on my book finder app that uses Google Books API and [Check Yo Self](https://check-yoself.app/), an app to check your markdown for spelling and grammar errors, currently an MVP.
+- 🔭 I’m currently working on my an [ecommerce app](https://github.com/twhite96/blitzjs-ecommerce) app built with [Blitz.js](https://github.com/blitz-js/blitz), rewriting [Check Yo Self](https://check-yoself.app/) app in [Next.js](https://github.com/vercel/next.js), and slogging through my [FAQ](https://github.com/twhite96/info-tiff-dev) [site](https://info.tiffanywhite.dev/).
 - 🌱 I’m currently learning GraphQL, Go, Typescript, and brushing up pn React core concepts
 - 🤔 I’m looking for help with getting up and running with more complex React/frontend engineering ideas and paradigms.
 - 📫 How to reach me: [Twitter](https://twitter.com/tiffanywhitedev) or <a href="mailto:tiffany@tiffanyrwhite.com">email</a> is the best way to reach me.
