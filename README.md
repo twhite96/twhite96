@@ -4,11 +4,46 @@
 
 
 ## You settled? Good. Some facts about me. ☕
-- 🔭 I’m currently working on an [ecommerce app](https://github.com/twhite96/blitzjs-ecommerce) app built with [Blitz.js](https://github.com/blitz-js/blitz), rewriting [Check Yo Self](https://check-yoself.app/) app in [Next.js](https://github.com/vercel/next.js), and slogging through my [FAQ](https://github.com/twhite96/info-tiff-dev) [site](https://info.tiffanywhite.dev/).
-- 🌱 I’m currently learning GraphQL, Go, Typescript, and brushing up pn React core concepts
+- 🔭 I’m currently working on, rewriting [Check Yo Self](https://check-yoself.app/) app in [Next.js](https://github.com/vercel/next.js), and slogging through my [FAQ](https://github.com/twhite96/info-tiff-dev) [site](https://info.tiffanywhite.dev/), and dipping my toe into InfoSec.
+- 🌱 I’m currently learning GraphQL, Go, Typescript,  Swift, and brushing up pn React core concepts
 - 🤔 I’m looking for help with getting up and running with more complex React/frontend engineering ideas and paradigms.
 - 📫 How to reach me: [Twitter](https://twitter.com/tiffanywhitedev) or <a href="mailto:tiffany@tiffanyrwhite.com">email</a> is the best way to reach me.
 - ⚡ Fun fact: [Cats are everything good and pure in this world](https://twhite96.github.io/v2/offline.html), even if I am allergic to them. (Can have one or two shorthairs. Anymore than that I'll asphyxiate 🙁)
+
+### Some of my stuff/links 🔗
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/tiffanyrwhite">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://codepen.io/tiffanywhitedev">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
+  <a href="http://tiffanywhite.live">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
+  <a href="https://www.youtube.com/user/trwhitenontrad/featured">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  
+  <a href="https://dev.to/tiffany">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+
+### T E C H N O L O G Y
+> Some of the tech I am using/learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Apple-M1%20Mac%20Mini-000000?style=for-the-badge&logo=apple&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white">&nbsp;&nbsp;
+</p>
+
 
 ## Recent Posts 📝
 
