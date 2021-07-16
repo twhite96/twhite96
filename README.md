@@ -4,7 +4,7 @@
 
 
 ## You settled? Good. Some facts about me. ☕
-- 🔭 I’m currently working on, rewriting [Check Yo Self](https://check-yoself.app/) app in [Next.js](https://github.com/vercel/next.js), and slogging through my [FAQ](https://github.com/twhite96/info-tiff-dev) [site](https://info.tiffanywhite.dev/), and dipping my toe into InfoSec.
+- 🔭 I’m currently working on, rewriting [Check Yo Self](https://check-yoself.app/) app in [Next.js](https://github.com/vercel/next.js), slogging through my [FAQ](https://github.com/twhite96/info-tiff-dev) [site](https://info.tiffanywhite.dev/), and dipping my toe into InfoSec.
 - 🌱 I’m currently learning GraphQL, Go, Typescript,  Swift, and brushing up pn React core concepts
 - 🤔 I’m looking for help with getting up and running with more complex React/frontend engineering ideas and paradigms.
 - 📫 How to reach me: [Twitter](https://twitter.com/tiffanywhitedev) or <a href="mailto:tiffany@tiffanyrwhite.com">email</a> is the best way to reach me.
