@@ -30,9 +30,9 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
 <!--END_SECTION:newsletters-->
 
 ### Some of my social stuff/links 🔗 💬
+> No FaceTwit or Insterist
 
 <p align='center'>
-  
   <a href="https://www.linkedin.com/in/tiffanyrwhite">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
