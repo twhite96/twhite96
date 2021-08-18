@@ -2,7 +2,12 @@
   <img src="assets/github-banner.png">
 </p>
 
-### Some of my social stuff/links 🔗
+Hey. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="22px" height="17px" alt="hi"> I'm Tiffany.
+
+I'm a software engineer working on the web, and figuring my way around servers and the backend of web apps.
+
+I'm excited about serverless tooling and managing Linux servers and networking, and earning my bug bounty stripes through pentesting on my LAN.
+### Some of my social stuff/links 🔗 💬
 
 <p align='center'>
   
@@ -34,7 +39,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
-### T E C H N O L O G Y
+### T E C H N O L O G Y ⚛️
 > Some of the tech I am using/learning
 <p align="center">
   <img src="https://img.shields.io/badge/Apple-M1%20Mac%20Mini-000000?style=for-the-badge&logo=apple&logoColor=white">&nbsp;&nbsp;
@@ -44,14 +49,21 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" >&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=35495E">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
 </p>
-  ### Editors 👩🏽‍💻
-  <p align='center'>
-    <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">  
-  </p>
 
-  <br />
+### Editors 👩🏽‍💻
+> My favorite text editors because you kinda need one
+<p align='center'>
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">  
+</p>
+
+### Backend/Servers/Tools 🧰
+> *Really* liking the backend and server management
+
+
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> &nbsp;
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> &nbsp;
@@ -60,7 +72,9 @@
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> &nbsp;
   
   
-  ### Operating Systems
+  ### Operating Systems 💻
+  > Learning Linux, Kali, but Apple, mostly.
+
   <p align='center'>
     <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"> &nbsp;
     <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"> &nbsp;
@@ -90,26 +104,3 @@
 * [Hitting My Stride, Routines, and Applying Again](https:&#x2F;&#x2F;buttondown.email&#x2F;tiffanywhite&#x2F;archive&#x2F;hitting-my-stride-routines-and-applying-again&#x2F;)
 * [Other&#39;s Success Can Push You Towards Your Own](https:&#x2F;&#x2F;buttondown.email&#x2F;tiffanywhite&#x2F;archive&#x2F;others-success-can-push-you-towards-your-own&#x2F;)
 <!--END_SECTION:newsletters-->
-
-
-
-<details>
-  <summary>
-    GitHub stats
-  </summary>
-  <br >
-
- #### Stats and stuff
- ![Tiffany's's github stats](https://github-readme-stats.vercel.app/api?username=twhite96&theme=radical&show_icons=true&count_private=true)
-</details>
-
-<!-- <br >
-<br >
-<br >
-<br > -->
-
-<!-- #### Here is a cat that is more athletic than most of us. You're welcome.
-
-<div align="center">
-  <img src="https://p179.p0.n0.cdn.getcloudapp.com/items/d5uWdxX1/crazy-kitty.gif" alt="kitty tumbles" />
-</div> -->
