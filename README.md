@@ -1,23 +1,18 @@
-### Hey! <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="22px" height="17px" alt="hi"> I'm T
+<p align='center'>
+  <img src="assets/github-banner.png">
+</p>
 
-> I'm a frontend engineer who is cybersec-curious, a cat herder, and baseball sommelier. ⚾
-
-
-## You settled? Good. Some facts about me. ☕
-- 🔭 I’m currently working on, rewriting [Check Yo Self](https://check-yoself.app/) app in [Next.js](https://github.com/vercel/next.js), slogging through my [FAQ](https://github.com/twhite96/info-tiff-dev) [site](https://info.tiffanywhite.dev/), and dipping my toe into InfoSec.
-- 🌱 I’m currently learning GraphQL, Go, Typescript,  Swift, and brushing up pn React core concepts
-- 🤔 I’m looking for help with getting up and running with more complex React/frontend engineering ideas and paradigms.
-- 📫 How to reach me: [Twitter](https://twitter.com/tiffanywhitedev) or <a href="mailto:tiffany@tiffanyrwhite.com">email</a> is the best way to reach me.
-- ⚡ Fun fact: [Cats are everything good and pure in this world](https://twhite96.github.io/v2/offline.html), even if I am allergic to them. (Can have one or two shorthairs. Anymore than that I'll asphyxiate 🙁)
-
-### Some of my stuff/links 🔗
+### Some of my social stuff/links 🔗
 
 <p align='center'>
   
   <a href="https://www.linkedin.com/in/tiffanyrwhite">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-
+  <a href="https://stackoverflow.com/story/tiffanywhitedev">
+    <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
+  </a>&nbsp;&nbsp;
+  
   <a href="https://codepen.io/tiffanywhitedev">
     <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -49,8 +44,29 @@
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" >&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=35495E">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+</p>
+  ### Editors 👩🏽‍💻
+  <p align='center'>
+    <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">  
+  </p>
+
+  <br />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> &nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> &nbsp;
+  
+  
+  ### Operating Systems
+  <p align='center'>
+    <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"> &nbsp;
+    <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"> &nbsp;
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> &nbsp;
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> &nbsp;
+  </p>
 </p>
 
 
