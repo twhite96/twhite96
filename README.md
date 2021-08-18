@@ -7,6 +7,28 @@ Hey. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba
 I'm a software engineer working on the web, and figuring my way around servers and the backend of web apps.
 
 I'm excited about serverless tooling and managing Linux servers and networking, and earning my bug bounty stripes through pentesting on my LAN.
+
+## Recent Posts 📝
+
+<!--START_SECTION:feed-->
+* [A Year of Reflection and a Year to Move Forward](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2021&#x2F;01&#x2F;07&#x2F;a-year-of-reflection-and-a-year-to-move-forward&#x2F;)
+* [Building a Static Site Generator with Ruby](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;12&#x2F;17&#x2F;building-a-static-site-generator-with-ruby&#x2F;)
+* [Real Artists Ship: Portfolio Finished](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;10&#x2F;12&#x2F;real-artists-ship&#x2F;)
+* [Hooked on Hooks: Portfolio Madness](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;09&#x2F;14&#x2F;hooked-on-hooks-portfolio-madness&#x2F;)
+* [Dev Research, A Zettelkasten](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;08&#x2F;03&#x2F;dev-research-a-zettelkasten&#x2F;)
+<!--END_SECTION:feed-->
+
+
+## Recent Newsletters 📰
+
+<!--START_SECTION:newsletters-->
+* [Grief, Love, and Loss in the Middle of a Pandemic](https:&#x2F;&#x2F;buttondown.email&#x2F;tiffanywhite&#x2F;archive&#x2F;grief-love-and-loss-in-the-middle-of-a-pandemic&#x2F;)
+* [Sometimes Sh!t Happens](https:&#x2F;&#x2F;buttondown.email&#x2F;tiffanywhite&#x2F;archive&#x2F;sometimes-sht-happens&#x2F;)
+* [New Job, Great Opportunities](https:&#x2F;&#x2F;buttondown.email&#x2F;tiffanywhite&#x2F;archive&#x2F;new-job-great-opportunities&#x2F;)
+* [Hitting My Stride, Routines, and Applying Again](https:&#x2F;&#x2F;buttondown.email&#x2F;tiffanywhite&#x2F;archive&#x2F;hitting-my-stride-routines-and-applying-again&#x2F;)
+* [Other&#39;s Success Can Push You Towards Your Own](https:&#x2F;&#x2F;buttondown.email&#x2F;tiffanywhite&#x2F;archive&#x2F;others-success-can-push-you-towards-your-own&#x2F;)
+<!--END_SECTION:newsletters-->
+
 ### Some of my social stuff/links 🔗 💬
 
 <p align='center'>
@@ -82,25 +104,3 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> &nbsp;
   </p>
 </p>
-
-
-## Recent Posts 📝
-
-<!--START_SECTION:feed-->
-* [A Year of Reflection and a Year to Move Forward](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2021&#x2F;01&#x2F;07&#x2F;a-year-of-reflection-and-a-year-to-move-forward&#x2F;)
-* [Building a Static Site Generator with Ruby](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;12&#x2F;17&#x2F;building-a-static-site-generator-with-ruby&#x2F;)
-* [Real Artists Ship: Portfolio Finished](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;10&#x2F;12&#x2F;real-artists-ship&#x2F;)
-* [Hooked on Hooks: Portfolio Madness](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;09&#x2F;14&#x2F;hooked-on-hooks-portfolio-madness&#x2F;)
-* [Dev Research, A Zettelkasten](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;08&#x2F;03&#x2F;dev-research-a-zettelkasten&#x2F;)
-<!--END_SECTION:feed-->
-
-
-## Recent Newsletters 📰
-
-<!--START_SECTION:newsletters-->
-* [Grief, Love, and Loss in the Middle of a Pandemic](https:&#x2F;&#x2F;buttondown.email&#x2F;tiffanywhite&#x2F;archive&#x2F;grief-love-and-loss-in-the-middle-of-a-pandemic&#x2F;)
-* [Sometimes Sh!t Happens](https:&#x2F;&#x2F;buttondown.email&#x2F;tiffanywhite&#x2F;archive&#x2F;sometimes-sht-happens&#x2F;)
-* [New Job, Great Opportunities](https:&#x2F;&#x2F;buttondown.email&#x2F;tiffanywhite&#x2F;archive&#x2F;new-job-great-opportunities&#x2F;)
-* [Hitting My Stride, Routines, and Applying Again](https:&#x2F;&#x2F;buttondown.email&#x2F;tiffanywhite&#x2F;archive&#x2F;hitting-my-stride-routines-and-applying-again&#x2F;)
-* [Other&#39;s Success Can Push You Towards Your Own](https:&#x2F;&#x2F;buttondown.email&#x2F;tiffanywhite&#x2F;archive&#x2F;others-success-can-push-you-towards-your-own&#x2F;)
-<!--END_SECTION:newsletters-->
