@@ -30,7 +30,7 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
 <!--END_SECTION:newsletters-->
 
 ## Some of my social stuff/links 🔗 💬
-
+<hr>
 <p align='center'>
   <a href="https://www.linkedin.com/in/tiffanyrwhite">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedinlogoColor=white" />
@@ -56,12 +56,14 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
 </p>
 
 ## Workspace 🖥️
+<hr>
 <p align="center">
     <img src="https://img.shields.io/badge/Apple-M1%20Mac%20Mini-000000?style=for-the-badge&logo=apple& logoColor=white">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2013-000000?style=for-the-badge&logo=apple&  logoColor=white">&nbsp;&nbsp;
-  </p>
+</p>
 
-## Tech I use/am learning 
+## Tech I use/am learning ⚛️ 📘
+<hr>
 <p align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">&nbsp;&nbsp;
@@ -80,7 +82,8 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
 </p>
 
 	
-### Backend/Servers/Tools 🧰
+## Backend/Servers/Tools 🧰
+<hr>
 <p align='center'>
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> &nbsp;
@@ -90,8 +93,10 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> &nbsp;
 </p>  
 
-### Some 'maybe interesting to you' however misleading stats
+## Stats 📈
+<hr >
+<p align='center'>
+  <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96" />
 
-<img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96" />
-<!-- 
-<img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=twhite96" />  -->
+  <img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=twhite96" /> 
+</p>
