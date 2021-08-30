@@ -77,7 +77,7 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
   <img src="https://img.shields.io/badge/Corsair-Vengeance_RGB_Pro_32_GB_RAM-ff0000?style=for-the-badge&logo=corsair&logoColor=white">
   <img src="https://img.shields.io/badge/Corsair-Crystal_iCUE_Case-000000?style=for-the-badge&logo=corsair&logoColor=white">
   <img src="https://img.shields.io/badge/Corsair-CX550F_RGB_Power_Supply-white?style=for-the-badge&logo=corsair&logoColor=white">
-  <img src="https://img.shields.io/badge/Samsung-970_EVO_Plus-white?style=for-the-badge&logo=samsung&logoColor=white">
+  <img src="https://img.shields.io/badge/Samsung-970_EVO_Plus-000000?style=for-the-badge&logo=samsung&logoColor=white">
   <img src="https://img.shields.io/badge/ASUS-Tuf-ff6956?style=for-the-badge&logo=asus&logoColor=white">
 </p>
 
