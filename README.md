@@ -55,103 +55,42 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
   </a>&nbsp;&nbsp;
 </p>
 
-
-## Computers 🖥️
-
-<details>
-  <summary>Computers I use</summary>
-  <p align="center">
+## Workspace 🖥️
+<p align="center">
     <img src="https://img.shields.io/badge/Apple-M1%20Mac%20Mini-000000?style=for-the-badge&logo=apple& logoColor=white">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2013-000000?style=for-the-badge&logo=apple&  logoColor=white">&nbsp;&nbsp;
   </p>
- </details> <br />
 
-## PC Build 🔩
-<details>
-  <summary>Dedicated Linux machine for InfoSec</summary>
-
-  <p align='center'>
-    <img src="https://img.shields.io/badge/AMD-Ryzen_3_3200G-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
-    <img src="https://img.shields.io/badge/Corsair-LL_Series_Fan-000000?style=for-the-badge&logo=corsair&logoColor=white">
-    <img src="https://img.shields.io/badge/Corsair-Vengeance_RGB_Pro_32_GB_RAM-ff0000?style=for-the-badge&logo=corsair&logoColor=white">
-    <img src="https://img.shields.io/badge/Corsair-Crystal_iCUE_Case-000000?style=for-the-badge&logo=corsair&logoColor=white">
-    <img src="https://img.shields.io/badge/Corsair-CX550F_RGB_Power_Supply-white?style=for-the-badge&logo=corsair&logoColor=white">
-    <img src="https://img.shields.io/badge/Samsung-970_EVO_Plus-000000?style=for-the-badge&logo=samsung&logoColor=white">
-    <img src="https://img.shields.io/badge/ASUS-Tuf-ff6956?style=for-the-badge&logo=asus&logoColor=white">
-  </p>
- </details> <br />
-
-
-
-## Tech I know well ⚛️
-
-<details>
-  <summary>The stuff I know</summary>
-  <p align="center">
+## Tech I use/am learning 
+<p align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;&nbsp;
+    	
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" >&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=35495E">&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
   </p>
- </details> <br />
 
-## Tech I am learning 📘
-<details>
-  <summary>Tech I am excited about that I will be using very soon</summary>
+	
+### Backend/Servers/Tools 🧰
+> *Really* liking the backend and server management
+> 
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"> &nbsp;
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> &nbsp;
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> &nbsp;
   
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" >&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=35495E">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-  </p>
- </details> <br />
-
-## Editors 👩🏽‍💻
-
-<details>
-  <summary>My favorite text editors because you kinda need one</summary>
-  <p align='center'>
-    <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">  
-  </p>
- </details> <br />
-
-
-## Backend/Servers/Tools 🧰
-
-<details>
-  <summary><em>Really</em> liking the backend and server management</summary>
-    <p align='center'>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&  logoColor=white"> &nbsp;
-      <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase& logoColor=black"> &nbsp;
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman& logoColor=white"> &nbsp;
-      <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&  logoColor=white"> &nbsp;
-      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify& logoColor=white"> &nbsp;
-      <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel& logoColor=white"> &nbsp;
-    </p>
- </details> <br />
-  
-  
-  ## Operating Systems 💻
-  <details>
-    <summary>Learning Linux, Kali, but Apple, mostly.</summary>
-    <p align='center'>
-      <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"> &nbsp;
-      <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"> &nbsp;
-      <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> &nbsp;
-      <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> &nbsp;
-    </p>
-   </details>
-
-<br />
-
 ### Some 'maybe interesting to you' however misleading stats
 
 <img width='200' src="https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96" />
-
-<img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=twhite96" /> 
+<!-- 
+<img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=twhite96" />  -->
