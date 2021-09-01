@@ -30,27 +30,30 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
 <!--END_SECTION:newsletters-->
 
 ## Some of my social stuff/links 🔗 💬
+	
 <p align='center'>
   <a href="https://www.linkedin.com/in/tiffanyrwhite">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedinlogoColor=white" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://stackoverflow.com/story/tiffanywhitedev">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  </a>&nbsp;&nbsp;  
+  </a>&nbsp;&nbsp;
+  
   <a href="https://codepen.io/tiffanywhitedev">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepenlogoColor=white" />
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="http://tiffanywhite.live">
-    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitchlogoColor=white" />
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://www.youtube.com/user/trwhitenontrad/featured">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtubelogoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>&nbsp;&nbsp;
+  
   <a href="https://dev.to/tiffany">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdottologoColor=white" />
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://codesandbox.io/u/twhite96">
-    <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandboxlogoColor=white" />
+    <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" />
   </a>&nbsp;&nbsp;
 </p>
 
