@@ -22,11 +22,11 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
 ## Recent Newsletters 📰
 
 <!--START_SECTION:newsletters-->
-* [Grief, Love, and Loss in the Middle of a Pandemic](https:&#x2F;&#x2F;buttondown.email&#x2F;tiffanywhite&#x2F;archive&#x2F;grief-love-and-loss-in-the-middle-of-a-pandemic&#x2F;)
 * [Sometimes Sh!t Happens](https:&#x2F;&#x2F;buttondown.email&#x2F;tiffanywhite&#x2F;archive&#x2F;sometimes-sht-happens&#x2F;)
 * [New Job, Great Opportunities](https:&#x2F;&#x2F;buttondown.email&#x2F;tiffanywhite&#x2F;archive&#x2F;new-job-great-opportunities&#x2F;)
 * [Hitting My Stride, Routines, and Applying Again](https:&#x2F;&#x2F;buttondown.email&#x2F;tiffanywhite&#x2F;archive&#x2F;hitting-my-stride-routines-and-applying-again&#x2F;)
 * [Other&#39;s Success Can Push You Towards Your Own](https:&#x2F;&#x2F;buttondown.email&#x2F;tiffanywhite&#x2F;archive&#x2F;others-success-can-push-you-towards-your-own&#x2F;)
+* [My First Module: Lessons](https:&#x2F;&#x2F;buttondown.email&#x2F;tiffanywhite&#x2F;archive&#x2F;my-first-module-lessons&#x2F;)
 <!--END_SECTION:newsletters-->
 
 ## Some of my social stuff/links 🔗 💬
