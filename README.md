@@ -93,6 +93,22 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> &nbsp;
 </p>  
 
+
+## **Fun Stuff**
+<br />
+
+## PC Build 🔩
+
+  <p align='center'>
+    <img src="https://img.shields.io/badge/AMD-Ryzen_3_3200G-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+    <img src="https://img.shields.io/badge/Corsair-LL_Series_Fan-000000?style=for-the-badge&logo=corsair& logoColor=white">
+    <img src="https://img.shields.io/badge/Corsair-Vengeance_RGB_Pro_32_GB_RAM-ff0000?style=for-the-badge&logo=corsair& logoColor=white">
+    <img src="https://img.shields.io/badge/Corsair-Crystal_iCUE_Case-000000?style=for-the-badge&logo=corsair& logoColor=white">
+    <img src="https://img.shields.io/badge/Corsair-CX550F_RGB_Power_Supply-white?style=for-the-badge&logo=corsair&  logoColor=white">
+    <img src="https://img.shields.io/badge/Samsung-970_EVO_Plus-000000?style=for-the-badge&logo=samsung&  logoColor=white">
+    <img src="https://img.shields.io/badge/ASUS-Tuf-ff6956?style=for-the-badge&logo=asus&logoColor=white">
+  </p>
+    
 ## Stats 📈
 
 <p align='center'>
@@ -100,3 +116,9 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
 
   <img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=twhite96" /> 
 </p>
+
+
+
+
+
+
