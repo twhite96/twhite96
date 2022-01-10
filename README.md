@@ -67,6 +67,7 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
 <p align="center">
     <img src="https://img.shields.io/badge/Apple-M1%20Mac%20Mini-000000?style=for-the-badge&logo=apple& logoColor=white">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2013-000000?style=for-the-badge&logo=apple&  logoColor=white">&nbsp;&nbsp;
+		<img src="https://img.shields.io/badge/Apple-MacBook_Air_2015-000000?style=for-the-badge&logo=apple&  logoColor=white">&nbsp;&nbsp;
 		<img src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white">
 </p>
 
