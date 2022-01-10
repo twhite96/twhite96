@@ -11,26 +11,27 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
 ## Recent Posts 📝
 
 <!--START_SECTION:feed-->
-* [The Beautiful Mess That is Webflow](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2021&#x2F;12&#x2F;11&#x2F;the-beautiful-mess-that-is-webflow&#x2F;)
-* [Blog Posts on My Career and Work at Calaxy](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2021&#x2F;09&#x2F;23&#x2F;blog-posts-on-my-career-and-work-at-calaxy&#x2F;)
-* [New Opportunities](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2021&#x2F;09&#x2F;10&#x2F;new-opportunities&#x2F;)
-* [A Year of Reflection and a Year to Move Forward](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2021&#x2F;01&#x2F;07&#x2F;a-year-of-reflection-and-a-year-to-move-forward&#x2F;)
-* [Building a Static Site Generator with Ruby](https:&#x2F;&#x2F;tiffanywhite.dev&#x2F;2020&#x2F;12&#x2F;17&#x2F;building-a-static-site-generator-with-ruby&#x2F;)
-<!--END_SECTION:feed-->
 
+- [The Beautiful Mess That is Webflow](https://tiffanywhite.dev/2021/12/11/the-beautiful-mess-that-is-webflow/)
+- [Blog Posts on My Career and Work at Calaxy](https://tiffanywhite.dev/2021/09/23/blog-posts-on-my-career-and-work-at-calaxy/)
+- [New Opportunities](https://tiffanywhite.dev/2021/09/10/new-opportunities/)
+- [A Year of Reflection and a Year to Move Forward](https://tiffanywhite.dev/2021/01/07/a-year-of-reflection-and-a-year-to-move-forward/)
+- [Building a Static Site Generator with Ruby](https://tiffanywhite.dev/2020/12/17/building-a-static-site-generator-with-ruby/)
+<!--END_SECTION:feed-->
 
 ## Recent Newsletters 📰
 
 <!--START_SECTION:newsletters-->
-* [The Nerd&#x2F;Marketer Dichotomy](https:&#x2F;&#x2F;news.tiffanywhite.dev&#x2F;p&#x2F;the-nerdmarketer-dichotomy)
-* [A Change of Platforms (Maybe)](https:&#x2F;&#x2F;news.tiffanywhite.dev&#x2F;p&#x2F;a-change-of-platforms-maybe)
-* [Sometimes Sh!t Happens](https:&#x2F;&#x2F;news.tiffanywhite.dev&#x2F;p&#x2F;sometimes-sht-happens)
-* [New Job, Great Opportunities](https:&#x2F;&#x2F;news.tiffanywhite.dev&#x2F;p&#x2F;new-job-great-opportunities)
-* [Hitting My Stride, Routines, and Applying Again](https:&#x2F;&#x2F;news.tiffanywhite.dev&#x2F;p&#x2F;hitting-my-stride-routines-and-applying-again)
+
+- [The Nerd&#x2F;Marketer Dichotomy](https://news.tiffanywhite.dev/p/the-nerdmarketer-dichotomy)
+- [A Change of Platforms (Maybe)](https://news.tiffanywhite.dev/p/a-change-of-platforms-maybe)
+- [Sometimes Sh!t Happens](https://news.tiffanywhite.dev/p/sometimes-sht-happens)
+- [New Job, Great Opportunities](https://news.tiffanywhite.dev/p/new-job-great-opportunities)
+- [Hitting My Stride, Routines, and Applying Again](https://news.tiffanywhite.dev/p/hitting-my-stride-routines-and-applying-again)
 <!--END_SECTION:newsletters-->
 
 ## Some of my social stuff/links 🔗 💬
-	
+
 <p align='center'>
   <a href="https://www.linkedin.com/in/tiffanyrwhite">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -64,30 +65,32 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
 </p>
 
 ## Workspace 🖥️
+
 <p align="center">
     <img src="https://img.shields.io/badge/Apple-M1%20Mac%20Mini-000000?style=for-the-badge&logo=apple& logoColor=white">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2013-000000?style=for-the-badge&logo=apple&  logoColor=white">&nbsp;&nbsp;
+		<img src="https://img.shields.io/badge/apple%20silicon-333333?style=for-the-badge&logo=apple&logoColor=white">
 </p>
 
 ## Tech I use/am learning ⚛️ 📘
+
 <p align="center">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">&nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white">&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">&nbsp;&nbsp;
+		<img src="https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00"> &nbsp;
+		<img src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"> &nbsp;
 </p>
 <p align='center'>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" >&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vuedotjs&logoColor=35495E">&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
   <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+	
 </p>
 
-	
 ## Backend/Servers/Tools 🧰
 
 <p align='center'>
@@ -97,22 +100,25 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
   <img src="https://img.shields.io/badge/Digital_Ocean-0080FF?style=for-the-badge&logo=DigitalOcean&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"> &nbsp;
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"> &nbsp;
-</p>  
-
+	<img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E"> &nbsp;
+	<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"> &nbsp;
+</p>
 
 ## **Fun Stuff**
+
 <br />
 
 ## PC Build 🔩
 
   <p align='center'>
-    <img src="https://img.shields.io/badge/AMD-Ryzen_3_3200G-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
-    <img src="https://img.shields.io/badge/Corsair-LL_Series_Fan-000000?style=for-the-badge&logo=corsair& logoColor=white">
-    <img src="https://img.shields.io/badge/Corsair-Vengeance_RGB_Pro_32_GB_RAM-ff0000?style=for-the-badge&logo=corsair& logoColor=white">
-    <img src="https://img.shields.io/badge/Corsair-Crystal_iCUE_Case-000000?style=for-the-badge&logo=corsair& logoColor=white">
-    <img src="https://img.shields.io/badge/Corsair-CX550F_RGB_Power_Supply-white?style=for-the-badge&logo=corsair&  logoColor=white">
-    <img src="https://img.shields.io/badge/Samsung-970_EVO_Plus-000000?style=for-the-badge&logo=samsung&  logoColor=white">
-    <img src="https://img.shields.io/badge/ASUS-Tuf-ff6956?style=for-the-badge&logo=asus&logoColor=white">
+    <img src="https://img.shields.io/badge/AMD-Ryzen_3_3200G-ED1C24?style=for-the-badge&logo=amd&logoColor=white"> &nbsp;
+    <img src="https://img.shields.io/badge/Corsair-LL_Series_Fan-000000?style=for-the-badge&logo=corsair& logoColor=white"> &nbsp;
+    <img src="https://img.shields.io/badge/Corsair-Vengeance_RGB_Pro_32_GB_RAM-ff0000?style=for-the-badge&logo=corsair& logoColor=white"> &nbsp;
+    <img src="https://img.shields.io/badge/Corsair-Crystal_iCUE_Case-000000?style=for-the-badge&logo=corsair& logoColor=white"> &nbsp;
+    <img src="https://img.shields.io/badge/Corsair-CX550F_RGB_Power_Supply-white?style=for-the-badge&logo=corsair&  logoColor=white"> &nbsp;
+    <img src="https://img.shields.io/badge/Samsung-970_EVO_Plus-000000?style=for-the-badge&logo=samsung&  logoColor=white"> &nbsp;
+    <img src="https://img.shields.io/badge/ASUS-Tuf-ff6956?style=for-the-badge&logo=asus&logoColor=white"> &nbsp;
+		<img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> &nbsp;
   </p>
     
 ## Stats 📈
@@ -122,9 +128,3 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
 
   <img width='200' src="https://github-readme-streak-stats.herokuapp.com/?user=twhite96" /> 
 </p>
-
-
-
-
-
-
