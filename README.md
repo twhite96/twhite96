@@ -103,7 +103,7 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
 	<img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"> &nbsp;
 </p>
 
-## **Fun Stuff**
+<!--## **Fun Stuff**
 
 <br />
 
@@ -118,8 +118,7 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
     <img src="https://img.shields.io/badge/Samsung-970_EVO_Plus-000000?style=for-the-badge&logo=samsung&  logoColor=white"> &nbsp;
     <img src="https://img.shields.io/badge/ASUS-Tuf-ff6956?style=for-the-badge&logo=asus&logoColor=white"> &nbsp;
 		<img src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"> &nbsp;
-  </p>
-    
+  </p>-->
 ## Stats 📈
 
 <p align='center'>
