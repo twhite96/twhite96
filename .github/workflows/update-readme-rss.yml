@@ -18,6 +18,6 @@ jobs:
 
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://news.tiffanywhite.dev/feed
+          feed-url: https://buttondown.email/tiffanywhite/rss
           readme-section: newsletters
           
