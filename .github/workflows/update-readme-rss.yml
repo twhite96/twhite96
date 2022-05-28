@@ -13,11 +13,19 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
+<<<<<<< Updated upstream
           feed-url: https://tiffanywhite.dev/rss/
+=======
+          feed-url: https://www.tiffanywhite.dev/rss/
+>>>>>>> Stashed changes
           readme-section: feed
 
       - uses: JasonEtco/rss-to-readme@v1
         with:
+<<<<<<< Updated upstream
           feed-url: https://buttondown.email/tiffanywhite/rss
+=======
+          feed-url: https://news.tiffanywhite.dev/rss
+>>>>>>> Stashed changes
           readme-section: newsletters
           
