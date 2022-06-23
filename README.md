@@ -8,6 +8,8 @@ I'm a software engineer working on the web, and figuring my way around servers a
 
 I'm excited about serverless tooling and managing Linux servers and networking, and earning my bug bounty stripes through pentesting on my LAN.
 
+[![wakatime](https://wakatime.com/badge/user/35a1c519-3817-40c1-9c97-00e108889072.svg?style=for-the-badge)](https://wakatime.com/@35a1c519-3817-40c1-9c97-00e108889072)
+
 ## Recent Posts 📝
 
 <!--START_SECTION:feed-->
