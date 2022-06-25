@@ -2,7 +2,7 @@
   <img src="assets/github-banner.png">
 </p>
 
-Hey. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="22px" height="17px" alt="hi"> I'm Tiffany.
+Hey. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="21px" height="16px" alt="hi"> I'm Tiffany.
 
 I'm a software engineer working on the web, and figuring my way around servers and the backend of web apps.
 
