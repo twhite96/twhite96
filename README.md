@@ -13,11 +13,11 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
 ## Recent Posts 📝
 
 <!--START_SECTION:feed-->
-* [The Beautiful Mess That is Webflow](https:&#x2F;&#x2F;www.tiffanywhite.dev&#x2F;2021&#x2F;12&#x2F;11&#x2F;the-beautiful-mess-that-is-webflow&#x2F;)
-* [Blog Posts on My Career and Work at Calaxy](https:&#x2F;&#x2F;www.tiffanywhite.dev&#x2F;2021&#x2F;09&#x2F;23&#x2F;blog-posts-on-my-career-and-work-at-calaxy&#x2F;)
-* [New Opportunities](https:&#x2F;&#x2F;www.tiffanywhite.dev&#x2F;2021&#x2F;09&#x2F;10&#x2F;new-opportunities&#x2F;)
-* [A Year of Reflection and a Year to Move Forward](https:&#x2F;&#x2F;www.tiffanywhite.dev&#x2F;2021&#x2F;01&#x2F;07&#x2F;a-year-of-reflection-and-a-year-to-move-forward&#x2F;)
-* [Building a Static Site Generator with Ruby](https:&#x2F;&#x2F;www.tiffanywhite.dev&#x2F;2020&#x2F;12&#x2F;17&#x2F;building-a-static-site-generator-with-ruby&#x2F;)
+* [Micro frontends Microservices Microbreweries](https:&#x2F;&#x2F;www.tiffanywhite.dev&#x2F;shorts&#x2F;micro-frontends&#x2F;)
+* [Volta for Node Version Management](https:&#x2F;&#x2F;www.tiffanywhite.dev&#x2F;shorts&#x2F;volta-for-node-version-management&#x2F;)
+* [Mustache Fix for my static site generator](https:&#x2F;&#x2F;www.tiffanywhite.dev&#x2F;shorts&#x2F;mustache-fix-for-my-static-site-generator&#x2F;)
+* [useRef and useEffect Seem like code smells](https:&#x2F;&#x2F;www.tiffanywhite.dev&#x2F;shorts&#x2F;useref-and-useeffect-seem-like-code-smells&#x2F;)
+* [Web Workers What](https:&#x2F;&#x2F;www.tiffanywhite.dev&#x2F;shorts&#x2F;web-workers-what&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Recent Newsletters 📰
