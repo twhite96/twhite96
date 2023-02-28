@@ -9,16 +9,16 @@ I'm a software engineer working on the web, and figuring my way around servers a
 I'm excited about DevOps and Home Assistant.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide_progress&theme=jolly)](https://github.com/twhite96/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide_progress&theme=buefy)](https://github.com/twhite96/github-readme-stats)
 
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&theme=jolly"
-  media="(prefers-color-scheme: dark)"
+  media="(prefers-color-scheme: light)"
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&theme=buefy"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&theme=buefy" />
 </picture>
