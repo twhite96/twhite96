@@ -9,8 +9,6 @@ I'm a software engineer working on the web, and figuring my way around servers a
 I'm excited about DevOps and Home Assistant.
 
 
-[![wakatime](https://wakatime.com/badge/user/35a1c519-3817-40c1-9c97-00e108889072.svg?style=for-the-badge)](https://wakatime.com/@35a1c519-3817-40c1-9c97-00e108889072)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide_progress&theme=jolly)](https://github.com/twhite96/github-readme-stats)
 
 <picture>
