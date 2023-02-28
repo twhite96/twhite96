@@ -1,14 +1,32 @@
 <p align='center'>
-  <img src="assets/banner-gif.gif">
+  <img src="assets/banner.gif">
 </p>
 
 Hey. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="21px" height="16px" alt="hi"> I'm Tiffany.
 
 I'm a software engineer working on the web, and figuring my way around servers and the backend of web apps.
 
-I'm excited about serverless tooling and managing Linux servers and networking, and earning my bug bounty stripes through pentesting on my LAN.
+I'm excited about DevOps and Home Assistant.
+
 
 [![wakatime](https://wakatime.com/badge/user/35a1c519-3817-40c1-9c97-00e108889072.svg?style=for-the-badge)](https://wakatime.com/@35a1c519-3817-40c1-9c97-00e108889072)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide_progress&theme=jolly)](https://github.com/twhite96/github-readme-stats)
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&theme=jolly"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&theme=buefy"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&theme=buefy" />
+</picture>
+
+
+[![tiff's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tiff&theme=jolly)](https://github.com/twhite96/github-readme-stats)
 
 ## Recent Posts 📝
 
@@ -36,16 +54,12 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
   <a href="https://www.linkedin.com/in/tiffanyrwhite">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
- <a href="https://timeline.tiffanyrwhite.com">
-  <img src="https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white"
-  </a>&nbsp;&nbsp;
   <a href="https://stackoverflow.com/story/tiffanywhitedev">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>&nbsp;&nbsp;
-  
-  <a href="https://codepen.io/tiffanywhitedev">
-    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a><br />
+  <a href="https://wakatime/tiff">
+    <img src="https://wakatime.com/badge/user/35a1c519-3817-40c1-9c97-00e108889072.svg?style=for-the-badge" />
+  </a>&nbsp;&nbsp;
   <a href="http://tiffanywhite.live">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -59,7 +73,5 @@ I'm excited about serverless tooling and managing Linux servers and networking, 
   <a href="https://www.freecodecamp.org/tiffanywhitedev">
     <img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://codesandbox.io/u/twhite96">
-    <img src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" />
-  </a>&nbsp;&nbsp;
+
 </p>
