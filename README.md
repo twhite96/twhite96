@@ -13,14 +13,14 @@ I'm excited about DevOps and Home Assistant.
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&show_private=true&theme=buefy"
+  srcset="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&count_private=true&theme=buefy"
   media="(prefers-color-scheme: light)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&show_private=true&theme=jolly"
+  srcset="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&count_private=true&theme=jolly"
   media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&show_private=true&theme=buefy" />
+<img src="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&count_private=true&theme=buefy" />
 </picture>
 
 
@@ -55,9 +55,6 @@ I'm excited about DevOps and Home Assistant.
   <a href="https://stackoverflow.com/story/tiffanywhitedev">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>&nbsp;&nbsp;
-  <a href="https://wakatime/tiff">
-    <img src="https://wakatime.com/badge/user/35a1c519-3817-40c1-9c97-00e108889072.svg?style=for-the-badge" />
-  </a>&nbsp;&nbsp;
   <a href="http://tiffanywhite.live">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -70,6 +67,9 @@ I'm excited about DevOps and Home Assistant.
   </a>&nbsp;&nbsp;
   <a href="https://www.freecodecamp.org/tiffanywhitedev">
     <img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://wakatime/tiff">
+    <img src="https://wakatime.com/badge/user/35a1c519-3817-40c1-9c97-00e108889072.svg?style=for-the-badge" />
   </a>&nbsp;&nbsp;
 
 </p>
