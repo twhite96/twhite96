@@ -22,10 +22,9 @@ I'm excited about DevOps and Home Assistant.
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide=html&layout=compact&theme=jolly"
   media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&count_private=true&theme=buefy" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide=html&layout=compact&theme=buefy" />
 </picture>
-
-
+<br />
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&count_private=true&theme=buefy"
@@ -37,8 +36,19 @@ I'm excited about DevOps and Home Assistant.
 />
 <img src="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&count_private=true&theme=buefy" />
 </picture>
+<br />
 
-[![tiff's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tiff&theme=panda)](https://github.com/twhite96/github-readme-stats)
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tiff&theme=buefy"
+  media="(prefers-color-scheme: light)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tiff&theme=panda"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tiff&theme=buefy" />
+</picture>
 
 ## Recent Posts 📝
 
