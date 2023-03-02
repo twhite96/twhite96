@@ -26,6 +26,18 @@ I'm excited about DevOps and Home Assistant.
 </picture>
 
 
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&count_private=true&theme=buefy"
+  media="(prefers-color-scheme: light)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&count_private=true&theme=jolly"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&count_private=true&theme=buefy" />
+</picture>
+
 [![tiff's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tiff&theme=panda)](https://github.com/twhite96/github-readme-stats)
 
 ## Recent Posts 📝
