@@ -11,13 +11,15 @@ I'm excited about DevOps and Home Assistant.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide=html&layout=compact&theme=buefy)](https://github.com/twhite96/github-readme-stats)
 
+
+
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&count_private=true&theme=buefy"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide=html&layout=compact&theme=buefy"
   media="(prefers-color-scheme: light)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&count_private=true&theme=jolly"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide=html&layout=compact&theme=jolly"
   media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&count_private=true&theme=buefy" />
