@@ -44,7 +44,7 @@ I'm excited about DevOps and Home Assistant.
   media="(prefers-color-scheme: light)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tiff&theme=panda"
+  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tiff&theme=jolly"
   media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tiff&theme=buefy" />
