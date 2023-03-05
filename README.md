@@ -8,11 +8,6 @@ I'm a software engineer working on the web, and figuring my way around servers a
 
 I'm excited about DevOps and Home Assistant.
 
-
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide=html&layout=compact&theme=buefy)](https://github.com/twhite96/github-readme-stats)-->
-
-
-
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide=html&layout=compact&theme=buefy"
