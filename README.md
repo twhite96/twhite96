@@ -8,42 +8,12 @@ I'm a software engineer working on the web, and figuring my way around servers a
 
 I'm excited about DevOps and Home Assistant.
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide=html&layout=compact&theme=buefy"
-  media="(prefers-color-scheme: light)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide=html&layout=compact&theme=jolly"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide=html&layout=compact&theme=buefy" />
-</picture>
-<br />
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api?username=twhite96&layout=compact&show_icons=true&count_private=true&theme=buefy"
-  media="(prefers-color-scheme: light)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=twhite96&layout=compact&show_icons=true&count_private=true&theme=jolly"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=twhite96&layout=compact&show_icons=true&count_private=true&theme=buefy" />
-</picture>
-<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide=html,css,scss&layout=compact&theme=swift)](https://github.com/twhite96/github-readme-stats)
 
-<picture>
-<source 
-  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tiff&theme=buefy"
-  media="(prefers-color-scheme: light)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/wakatime?username=tiff&theme=jolly"
-  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tiff&theme=buefy" />
-</picture>
+![tiff's GitHub stats](https://github-readme-stats.vercel.app/api?username=twhite96&layout=compact&show_icons=true&count_private=true&theme=swift)
+
+[![tiff's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tiff&theme=swift)](https://github.com/twhite96/github-readme-stats)
+
 
 ## Recent Posts 📝
 
