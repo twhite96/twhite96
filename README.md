@@ -18,11 +18,11 @@ I'm excited about DevOps and Home Assistant.
 ## Recent Posts 📝
 
 <!--START_SECTION:feed-->
+* [Temporary home lab setup](https:&#x2F;&#x2F;www.tiffanywhite.dev&#x2F;shorts&#x2F;temporary-home-lab-setup&#x2F;)
 * [Home Assistant spurs my love of DevOps](https:&#x2F;&#x2F;www.tiffanywhite.dev&#x2F;2023&#x2F;04&#x2F;11&#x2F;home-assistant-love-of-devops&#x2F;)
 * [Tinkering in my Home Lab](https:&#x2F;&#x2F;www.tiffanywhite.dev&#x2F;2023&#x2F;03&#x2F;05&#x2F;tinkering-in-my-home-lab&#x2F;)
 * [Micro frontends Microservices Microbreweries](https:&#x2F;&#x2F;www.tiffanywhite.dev&#x2F;shorts&#x2F;micro-frontends&#x2F;)
 * [Volta for Node Version Management](https:&#x2F;&#x2F;www.tiffanywhite.dev&#x2F;shorts&#x2F;volta-for-node-version-management&#x2F;)
-* [Mustache Fix for my static site generator](https:&#x2F;&#x2F;www.tiffanywhite.dev&#x2F;shorts&#x2F;mustache-fix-for-my-static-site-generator&#x2F;)
 <!--END_SECTION:feed-->
 
 ## Recent Newsletters 📰
