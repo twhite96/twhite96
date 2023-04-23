@@ -57,7 +57,7 @@ I'm excited about DevOps and Home Assistant.
   <a href="https://www.freecodecamp.org/tiffanywhitedev">
     <img src="https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://wakatime/tiff">
+  <a href="https://wakatime.com/tiff">
     <img src="https://wakatime.com/badge/user/35a1c519-3817-40c1-9c97-00e108889072.svg?style=for-the-badge" />
   </a>&nbsp;&nbsp;
 
