@@ -41,7 +41,7 @@ I'm excited about DevOps and Home Assistant.
   <a href="https://www.linkedin.com/in/tiffanyrwhite">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://stackoverflow.com/story/tiffanywhitedev">
+  <a href="https://stackoverflow.com/users/3800146/tiffanywhitedev">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>&nbsp;&nbsp;
   <a href="http://tiffanywhite.live">
