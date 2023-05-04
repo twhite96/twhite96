@@ -13,10 +13,5 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://www.tiffanywhite.dev/rss/
-          readme-section: feed
-
-      - uses: JasonEtco/rss-to-readme@v1
-        with:
           feed-url: https://news.tiffanywhite.dev/rss
           readme-section: newsletters
