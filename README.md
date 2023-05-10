@@ -6,7 +6,7 @@ Hey. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba
 
 I'm a software engineer working on the web, and figuring my way around servers and the backend of web apps.
 
-I'm excited about DevOps and Home Assistant.
+I'm excited about home labs and Home Assistant.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide=html,css,scss&layout=compact&theme=swift&title_color=ff7f50&range=all_time)](https://github.com/twhite96/github-readme-stats)
 
