@@ -14,7 +14,6 @@ I'm excited about home labs and Home Assistant.
 
 [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tiff&theme=swift&title_color=ff7f50)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Ftwhite96&labelColor=%232ccce4&countColor=%23d9e3f0)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ftwhite96)
 
 ## Recent Posts 📝
 
