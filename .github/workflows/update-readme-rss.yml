@@ -11,10 +11,10 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
-      - uses: JasonEtco/rss-to-readme@v1
-        with:
-          feed-url: https://www.tiffanywhite.dev/feed.xml
-          readme-section: feed
+#       - uses: JasonEtco/rss-to-readme@v1
+#         with:
+#           feed-url: https://www.tiffanywhite.dev/feed.xml
+#           readme-section: feed
 
       - uses: JasonEtco/rss-to-readme@v1
         with:
