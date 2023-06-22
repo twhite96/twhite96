@@ -14,6 +14,7 @@ jobs:
       - uses: JasonEtco/rss-to-readme@v1
         with:
           feed-url: https://www.tiffanywhite.dev/feed.xml
+          template: "{{/posts/}}"
           readme-section: feed
 
       - uses: JasonEtco/rss-to-readme@v1
