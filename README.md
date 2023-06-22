@@ -21,7 +21,7 @@ I'm excited about home labs and Home Assistant.
 * [Another Point of Vue, A React Dev Perspective](&#x2F;posts&#x2F;another-point-of-vue-a-react-dev-perspective)
 * [Big O Notation](&#x2F;posts&#x2F;big-o)
 * [Blog Posts on My Career and Work at Calaxy](&#x2F;posts&#x2F;blog-posts-on-my-career-and-work-at-calaxy)
-* [Building a Static Site Generator with Ruby](&#x2F;posts&#x2F;building-a-static-site-generator-with-ruby)
+* [Building Typesafe Full Stack App w&#x2F; Apollo Server 4, Railway, Prisma, Pothos, Next, &amp; TS (part 1 - setting up the server)](&#x2F;posts&#x2F;build-typesafe-full-stack-app-with-prisma)
 <!--END_SECTION:feed-->
 
 ## Recent Newsletters 📰
