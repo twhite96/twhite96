@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://www.tiffanywhite.dev/feed.xml
+          feed-url: https://www.tiffanywhite.dev/posts/feed.xml
           readme-section: feed
 
       - uses: JasonEtco/rss-to-readme@v1
