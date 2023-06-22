@@ -17,11 +17,11 @@ I'm excited about home labs and Home Assistant.
 ## Recent Posts 📝
 
 <!--START_SECTION:feed-->
-* [Temporary home lab setup](https:&#x2F;&#x2F;www.tiffanywhite.dev&#x2F;shorts&#x2F;temporary-home-lab-setup&#x2F;)
-* [Home Assistant spurs my love of DevOps](https:&#x2F;&#x2F;www.tiffanywhite.dev&#x2F;2023&#x2F;04&#x2F;11&#x2F;home-assistant-love-of-devops&#x2F;)
-* [Tinkering in my Home Lab](https:&#x2F;&#x2F;www.tiffanywhite.dev&#x2F;2023&#x2F;03&#x2F;05&#x2F;tinkering-in-my-home-lab&#x2F;)
-* [Micro frontends Microservices Microbreweries](https:&#x2F;&#x2F;www.tiffanywhite.dev&#x2F;shorts&#x2F;micro-frontends&#x2F;)
-* [Volta for Node Version Management](https:&#x2F;&#x2F;www.tiffanywhite.dev&#x2F;shorts&#x2F;volta-for-node-version-management&#x2F;)
+* [A Simple Terminal Website with CSS and Typewriter.js](&#x2F;posts&#x2F;a-simple-terminal-website-with-css-and-typewriterjs)
+* [Another Point of Vue, A React Dev Perspective](&#x2F;posts&#x2F;another-point-of-vue-a-react-dev-perspective)
+* [Big O Notation](&#x2F;posts&#x2F;big-o)
+* [Blog Posts on My Career and Work at Calaxy](&#x2F;posts&#x2F;blog-posts-on-my-career-and-work-at-calaxy)
+* [Building a Static Site Generator with Ruby](&#x2F;posts&#x2F;building-a-static-site-generator-with-ruby)
 <!--END_SECTION:feed-->
 
 ## Recent Newsletters 📰
