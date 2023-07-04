@@ -46,9 +46,13 @@ I'm excited about home labs and Home Assistant.
   <a href="http://tiffanywhite.live">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.youtube.com/user/trwhitenontrad/featured">
+  <a href="https://www.youtube.com/@tiffanywhitedev">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>&nbsp;&nbsp;
+  <a href="https://keybase.io/tiffanyrwhite">
+    <img src="https://img.shields.io/badge/Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=white" />
+  </a>&nbsp;&nbsp;
+
   
   <a href="https://dev.to/tiffany">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
