@@ -22,7 +22,7 @@ I'm excited about home labs and Home Assistant.
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide=html,css,scss&layout=pie&theme=swift&title_color=ff7f50" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide=html,css,scss&layout=pie&theme=swift&size_weight=0.5&count_weight=0.5&title_color=ff7f50" />
 </p>  
 
 ## Some of my social stuff/links 🔗 💬
