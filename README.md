@@ -8,8 +8,6 @@ I'm a software engineer working on the web, and figuring my way around servers a
 
 I'm excited about home labs and Home Assistant.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide=html,css,scss&layout=pie&theme=swift&title_color=ff7f50)](https://github.com/twhite96/github-readme-stats)
-
 <table><tr><td valign="top" width="50%">
 
 <a href="https://github.com/twhite96"><img src="https://github-readme-stats.vercel.app/api?username=twhite96&rank_icon=percentile&show_icons=true&count_private=true&theme=swift&title_color=ff7f50" /></a>
@@ -17,18 +15,15 @@ I'm excited about home labs and Home Assistant.
 </td><td valign="top" width="50%">
 
 <a href="http://www.github.com/twhite96"><img src="https://streak-stats.demolab.com?user=twhite96&theme=ayu-light&hide_border=true" /></a>
+
+</td>
  
 </tr></tr></table> 
 
-## Recent Newsletters 📰
 
-<!--START_SECTION:newsletters-->
-* [Tech These Days, Huh?](https:&#x2F;&#x2F;news.tiffanywhite.dev&#x2F;archive&#x2F;tech-these-days-huh&#x2F;)
-* [The Nerd&#x2F;Marketer Dichotomy](https:&#x2F;&#x2F;news.tiffanywhite.dev&#x2F;archive&#x2F;the-nerdmarketer-dichotomy&#x2F;)
-* [Sometimes Sh!t Happens](https:&#x2F;&#x2F;news.tiffanywhite.dev&#x2F;archive&#x2F;sometimes-sht-happens&#x2F;)
-* [New Job, Great Opportunities](https:&#x2F;&#x2F;news.tiffanywhite.dev&#x2F;archive&#x2F;new-job-great-opportunities&#x2F;)
-* [Hitting My Stride, Routines, and Applying Again](https:&#x2F;&#x2F;news.tiffanywhite.dev&#x2F;archive&#x2F;hitting-my-stride-routines-and-applying-again&#x2F;)
-<!--END_SECTION:newsletters-->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide=html,css,scss&layout=pie&theme=swift&title_color=ff7f50" />
+</p>  
 
 ## Some of my social stuff/links 🔗 💬
 <p align='center'>
