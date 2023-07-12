@@ -8,9 +8,11 @@ I'm a software engineer working on the web, and figuring my way around servers a
 
 I'm excited about home labs and Home Assistant.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide=html,css,scss&layout=pie&theme=swift&title_color=ff7f50)](https://github.com/twhite96/github-readme-stats)
+
 <table><tr><td valign="top" width="50%">
 
-<a href="https://github.com/twhite96"><img src="https://github-readme-stats.vercel.app/api?username=twhite96&layout=donut&show_icons=true&count_private=true&theme=swift&title_color=ff7f50" /></a>
+<a href="https://github.com/twhite96"><img src="https://github-readme-stats.vercel.app/api?username=twhite96&rank_icon=percentile&show_icons=true&count_private=true&theme=swift&title_color=ff7f50" /></a>
  
 </td><td valign="top" width="50%">
 
