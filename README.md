@@ -8,21 +8,15 @@ I'm a software engineer working on the web, and figuring my way around servers a
 
 I'm excited about home labs and Home Assistant.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=twhite96&hide=html,css,scss&layout=donut&theme=swift&title_color=ff7f50)](https://github.com/twhite96/github-readme-stats)
+<table><tr><td valign="top" width="50%">
 
-![tiff's GitHub stats](https://github-readme-stats.vercel.app/api?username=twhite96&layout=donut&show_icons=true&count_private=true&theme=swift&title_color=ff7f50)
+<a href="https://github.com/twhite96"><img src="https://github-readme-stats.vercel.app/api?username=twhite96&layout=donut&show_icons=true&count_private=true&theme=swift&title_color=ff7f50" /></a>
+ 
+</td><td valign="top" width="50%">
 
-<!--[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tiff&theme=swift&title_color=ff7f50)](https://github.com/anuraghazra/github-readme-stats)-->
-
-## Recent Posts 📝
-
-<!--START_SECTION:feed-->
-* [A Simple Terminal Website with CSS and Typewriter.js](&#x2F;posts&#x2F;a-simple-terminal-website-with-css-and-typewriterjs)
-* [Another Point of Vue, A React Dev Perspective](&#x2F;posts&#x2F;another-point-of-vue-a-react-dev-perspective)
-* [Big O Notation](&#x2F;posts&#x2F;big-o)
-* [Blog Posts on My Career and Work at Calaxy](&#x2F;posts&#x2F;blog-posts-on-my-career-and-work-at-calaxy)
-* [Building a Static Site Generator with Ruby](&#x2F;posts&#x2F;building-a-static-site-generator-with-ruby)
-<!--END_SECTION:feed-->
+<a href="http://www.github.com/twhite96"><img src="https://streak-stats.demolab.com?user=twhite96&theme=ayu-light&hide_border=true" /></a>
+ 
+</tr></tr></table> 
 
 ## Recent Newsletters 📰
 
