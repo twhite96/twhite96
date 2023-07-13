@@ -10,11 +10,11 @@ I'm excited about home labs and Home Assistant.
 
 <table><tr><td valign="top" width="50%">
 
-<a href="https://github.com/twhite96/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=twhite96&rank_icon=percentile&show_icons=true&count_private=true&theme=swift&title_color=ff7f50" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=twhite96&rank_icon=percentile&show_icons=true&count_private=true&theme=swift&title_color=ff7f50" />
  
 </td><td valign="top" width="50%">
 
-<a href="http://www.github.com/twhite96"><img src="https://streak-stats.demolab.com?user=twhite96&theme=ayu-light&hide_border=true" /></a>
+<img src="https://streak-stats.demolab.com?user=twhite96&theme=ayu-light&hide_border=true" />
 
 </td>
  
