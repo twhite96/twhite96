@@ -10,9 +10,7 @@ I'm excited about home labs and Home Assistant.
 
 <table><tr><td valign="top" width="50%">
 
-<a href="https://github.com/twhite96/github-readme-stats
-
-"><img src="https://github-readme-stats.vercel.app/api?username=twhite96&rank_icon=percentile&show_icons=true&count_private=true&theme=swift&title_color=ff7f50" /></a>
+<a href="https://github.com/twhite96/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=twhite96&rank_icon=percentile&show_icons=true&count_private=true&theme=swift&title_color=ff7f50" /></a>
  
 </td><td valign="top" width="50%">
 
