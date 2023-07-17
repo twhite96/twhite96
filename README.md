@@ -30,9 +30,9 @@ I'm excited about home labs, cybersecurity, and Home Assistant.
   <a href="https://stackoverflow.com/users/3800146/tiffanywhitedev">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
   </a>&nbsp;&nbsp;
-  <a href="http://tiffanywhite.live">
+<!--   <a href="http://tiffanywhite.live">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
   <a href="https://www.youtube.com/@tiffanywhitedev">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>&nbsp;&nbsp;
