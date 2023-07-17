@@ -6,7 +6,7 @@ Hey. <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba
 
 I'm a software engineer working on the web, and figuring my way around servers and the backend of web apps.
 
-I'm excited about home labs and Home Assistant.
+I'm excited about home labs, cybersecurity, and Home Assistant.
 
 <table><tr><td valign="top" width="50%">
 
