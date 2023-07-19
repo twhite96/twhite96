@@ -20,10 +20,10 @@ I'm excited about home labs, cybersecurity, and Home Assistant.
 
   <tr>
     <td valign="top" width="50%">
-      <img src="https://github-profile-trophy.vercel.app/?username=twhite96&theme=buefy" />
+      <img src="https://github-profile-trophy.vercel.app/?username=twhite96&theme=swift" />
     </td>
     <td valign="top" width="50%">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=twhite96&theme=buefy" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=twhite96&theme=transparent" />
     </td>
   </tr>
  </table> 
