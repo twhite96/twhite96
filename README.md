@@ -9,7 +9,7 @@ Hi! I'm tiff, a frontend engineer looking to transition into web app penetration
           
 ![](https://github-readme-stats.vercel.app/api?username=twhite96&rank_icon=percentile&show_icons=true&count_private=true&theme=swift&title_color=ff7f50)
 ![](https://streak-stats.demolab.com?user=twhite96&theme=ayu-light&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=twhite96&theme=transparent) <br>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=twhite96&theme=vue) <br>
 </div>
 
 
