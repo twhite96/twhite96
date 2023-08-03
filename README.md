@@ -33,9 +33,9 @@ Hi! I'm tiff, a frontend engineer looking to transition into web app penetration
 
 ## Some of my social stuff/links 🔗 💬
 <p align='center'>
-  <a href="https://stackoverflow.com/users/3800146/tiffanywhitedev">
+<!--   <a href="https://stackoverflow.com/users/3800146/tiffanywhitedev">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
   <a href="https://keybase.io/tiffanyrwhite">
     <img src="https://img.shields.io/badge/Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=white" />
   </a>&nbsp;&nbsp;
