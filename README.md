@@ -49,6 +49,8 @@ Hi! I'm tiff, a frontend engineer looking to transition into web app penetration
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ftwhite96">
     <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Ftwhite96&labelColor=%232ccce4&countColor=%23d9e3f0" />
   </a>&nbsp;&nbsp;
+  <br/>
+  <img src="https://tryhackme-badges.s3.amazonaws.com/tiffcatte.png" alt="TryHackMe">
 </p>
 
 <div align="center">
