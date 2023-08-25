@@ -44,6 +44,9 @@ Hi! I'm tiff, a frontend engineer looking to transition into web app penetration
   <a href="https://tryhackme.com/p/tiffcatte">
     <img src="https://img.shields.io/badge/tryhackme-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
   </a>&nbsp;&nbsp;
+  <a href="https://app.hackthebox.com/profile/1602474">
+    <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" />
+  </a>&nbsp;&nbsp;
   <a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ftwhite96">
     <img src="https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Ftwhite96&labelColor=%232ccce4&countColor=%23d9e3f0" />
   </a>&nbsp;&nbsp;
