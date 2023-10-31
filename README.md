@@ -1,5 +1,5 @@
 <p align='center'>
-  <img style="max-width: 100%;" src="assets/new-linkedin-banner (8).gif">
+  <img style="max-width: 100%;" src="assets/tiff-cyber.gif">
 </p>
 
 Hi! I'm tiff, a frontend engineer looking to transition into web app penetration testing/red team. I am currently working through AWS, OSINT, and a few other certs.
