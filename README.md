@@ -32,6 +32,9 @@ Hi! I'm tiff, a frontend engineer looking to transition into web app penetration
 ## Some of my social stuff/links 🔗 💬
 
 <p align='center'>
+  <a href="https://wakatime.com/tiff">
+    <img src="https://wakatime.com/badge/user/35a1c519-3817-40c1-9c97-00e108889072.svg?style=for-the-badge" />
+  </a>&nbsp;&nbsp;
   <a href="https://keybase.io/tiffanyrwhite">
     <img src="https://img.shields.io/badge/Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=white" />
   </a>&nbsp;&nbsp;
