@@ -50,7 +50,7 @@ Hi! I'm tiff, a frontend engineer looking to transition into web app penetration
     <img alt="HackerNews User Karma" src="https://img.shields.io/hackernews/user-karma/trw55?style=for-the-badge&logo=ycombinator&logoColor=%23F0652F&labelColor=%23fff&color=%23F0652F">
   </a>&nbsp;&nbsp;
   <br/>
-  <img src="https://tryhackme-badges.s3.amazonaws.com/tiffcatte.png" alt="TryHackMe">
+ <!--<img src="https://tryhackme-badges.s3.amazonaws.com/tiffcatte.png" alt="TryHackMe">-->
 </p>
 
 <div align="center">
