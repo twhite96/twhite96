@@ -37,9 +37,6 @@ Hi! I'm tiff, a frontend engineer looking to transition into web app penetration
   <a href="https://keybase.io/0x8c">
     <img src="https://img.shields.io/badge/Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://tryhackme.com/p/tiffcatte">
-    <img src="https://img.shields.io/badge/tryhackme-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
-  </a>&nbsp;&nbsp;
   <a href="https://app.hackthebox.com/profile/1602474">
     <img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00" />
   </a>&nbsp;&nbsp;
@@ -50,7 +47,6 @@ Hi! I'm tiff, a frontend engineer looking to transition into web app penetration
     <img alt="HackerNews User Karma" src="https://img.shields.io/hackernews/user-karma/trw55?style=for-the-badge&logo=ycombinator&logoColor=%23F0652F&labelColor=%23fff&color=%23F0652F">
   </a>&nbsp;&nbsp;
   <br/>
- <!--<img src="https://tryhackme-badges.s3.amazonaws.com/tiffcatte.png" alt="TryHackMe">-->
 </p>
 
 <div align="center">
