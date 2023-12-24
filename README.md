@@ -55,4 +55,4 @@ Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a f
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1000&pause=300&color=43B387&random=false&width=1100&height=120&lines=Dev;Pentester;Malcontent;An+error+has+occurred.+To+continue%3A;Press+Enter+to+return+to+Windows+;or+press+F+in+the+chat+to+pay+respect+;to+your+pwned+network)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=1100&pause=300&color=43B387&random=false&width=1100&height=120&lines=Dev;Pentester;Malcontent;An+error+has+occurred.+To+continue%3A;Press+Enter+to+return+to+Windows+;or+press+F+in+the+chat+to+pay+respect+;to+your+pwned+network)](https://git.io/typing-svg)
