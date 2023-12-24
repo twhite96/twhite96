@@ -2,7 +2,7 @@
   <img style="max-width: 100%;" src="assets/cybercat.gif">
 </p>
 
-Hi! I'm tiff, a frontend engineer looking to transition into web app penetration testing/red team. I am currently working through AWS, OSINT, and a few other certs.
+Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a frontend developer in another life and while I was able to make good money and do challenging work, it wasn't my jam. So I've pivoted to cybersecurity.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&count_private=true&theme=buefy&hide_border=true" />
