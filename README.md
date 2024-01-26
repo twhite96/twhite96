@@ -1,6 +1,59 @@
-<p align="center">$ whoami <span style=" animation: cursor 2s infinite;
-color: rgb(0, 170, 0);">█</span></p>
-
+<p align="center">$ whoami <span class="cursor">█</span></p>
+<svg fill="none" viewBox="0 0 60 20" width="60" height="20" xmlns="http://www.w3.org/2000/svg"><foreignObject width="100%">
+<div xmlns="http://www.w3.org/1999/xhtml">
+    <style>
+      .cursor {
+        color: rgb(0, 170, 0);
+        -webkit-animation: 1s blink step-end infinite;
+        -moz-animation: 1s blink step-end infinite;
+        -ms-animation: 1s blink step-end infinite;
+        -o-animation: 1s blink step-end infinite;
+        animation: 1s blink step-end infinite;
+      }
+    @keyframes "blink" {
+      from, to {
+        color: transparent;
+      }
+      50% {
+        color: rgb(0, 170, 0);
+      }
+    }
+    @-moz-keyframes blink {
+      from, to {
+        color: transparent;
+      }
+      50% {
+        color: rgb(0, 170, 0);
+      }
+    }
+    @-webkit-keyframes "blink" {
+      from, to {
+        color: transparent;
+      }
+      50% {
+        color: rgb(0, 170, 0);
+      }
+    }
+    @-ms-keyframes "blink" {
+      from, to {
+        color: transparent;
+      }
+      50% {
+        color: rgb(0, 170, 0);
+      }
+    }
+    @-o-keyframes "blink" {
+      from, to {
+        color: transparent;
+      }
+      50% {
+        color: rgb(0, 170, 0);
+      }
+    }
+    </style>
+	</div>
+</foreignObject>
+</svg>
 
 Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a frontend developer in another life and while I was able to make good money and do challenging work, it wasn't my jam. So I've pivoted to cybersecurity.
 
