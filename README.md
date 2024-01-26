@@ -1,10 +1,5 @@
-<p class="blinking-cursor">$ whoami <span>&nbsp;</span></p>
-<style>
-    .blinking-cursor > span {
-      border-left: 6px solid #0F9E59;
-      animation: blink 1s step-end
-     }
-  </style>
+<p align="center">$ whoami <span style="border-left: 6px solid #0F9E59; animation: blink 1s ease-in-out">&nbsp;</span></p>
+
 
 Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a frontend developer in another life and while I was able to make good money and do challenging work, it wasn't my jam. So I've pivoted to cybersecurity.
 
