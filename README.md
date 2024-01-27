@@ -90,6 +90,7 @@ Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a f
         <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white">
         <img src="https://img.shields.io/badge/k3s-FFC61C?style=for-the-badge&logo=k3s&logoColor=white">
         <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+        <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white">
       </td>
       <td>
         <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
@@ -110,6 +111,8 @@ Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a f
         <img src="https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
         <img src="https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white">
         <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+        <img src="https://img.shields.io/badge/torbrowser-7d4698?style=for-the-badge&logo=torbrowser&logoColor=white">
+        <img src="https://img.shields.io/badge/arc-fcbfbd?style=for-the-badge&logo=arc&logoColor=white">
       </td>
     </tr>
   </tbody>    
