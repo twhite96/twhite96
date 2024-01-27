@@ -129,22 +129,28 @@ Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a f
   <tbody>
     <tr>
       <td valign="top" width="33%">
-        <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/gist?id=b68308a684fcf6a801feaf45509f8cad">
-        <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=tifflabs-ha-configs">
-        <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=ddos-script">
-        <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=simple-dns-enum-tool">
+        <a href="https://gist.github.com/twhite96/b68308a684fcf6a801feaf45509f8cad"> <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/gist?id=b68308a684fcf6a801feaf45509f8cad"></a>
+        <a href="https://github.com/twhite96/tifflabs-ha-configs">
+          <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=tifflabs-ha-configs">
+        </a>
+        <a href="https://github.com/twhite96/ddos-script">
+          <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=ddos-script">
+        </a>
+        <a href="https://github.com/twhite96/simple-dns-enum-tool"><img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=simple-dns-enum-tool"></a>
       </td>
       <td valign="top" width="33%">
-        <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/gist?id=38b2c534dcd1a62ad405de2990dcbb9c">
-        <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=homelab-config">
-        <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=docker-mkdocs-material">
-        <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=tifflabs">
+       <a href="https://gist.github.com/twhite96/3985bf2d68eb0a6c9aedbacdb13600c2">
+        <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/gist?id=3985bf2d68eb0a6c9aedbacdb13600c2">
+       </a>
+       <a href="https://github.com/twhite96/homelab-config"><img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=homelab-config"></a>
+       <a href="https://github.com/twhite96/docker-mkdocs-material"><img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=docker-mkdocs-material"></a>
+       <a href="https://github.com/twhite96/tifflabs"><img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=tifflabs"></a>
       </td>
       <td valign="top" width="33%">
-        <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=dot-files">
-        <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=uses">
-        <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=neovim-configs">
-        <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=hacking-books">
+        <a href="https://github.com/twhite96/dot-files"><img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=dot-files"></a>
+        <a href="https://github.com/twhite96/uses"><img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=uses"></a>
+        <a href="https://github.com/twhite96/nvim-configs"><img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=neovim-configs"></a>
+        <a href="https://github.com/twhite96/hacking-books"><img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=hacking-books"></a>
       </td>
     </tr>
   </tbody>    
