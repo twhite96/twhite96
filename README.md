@@ -1,9 +1,12 @@
-<p align="center">$ whoami<span><img src="assets/cursor.svg" /><span></p>
+<p align="center"><img src="https://res.cloudinary.com/dfahg992n/image/upload/r_max/c_scale,w_250/v1704169611/Hacker_Cat_Desk_fbqj7m.png">
 
+<p align="center">$ whoami  <img width="8" height="10" src="assets/cursor.gif" />
+</p>
 
 Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a frontend developer in another life and while I was able to make good money and do challenging work, it wasn't my jam. So I've pivoted to cybersecurity.
 
-[![Open blog](https://img.shields.io/badge/Open-blog-563D7C?style=for-the-badge&logo=web&logoColor=white)](https://0x8c.org)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Open blog](https://img.shields.io/badge/Open-blog-563D7C?style=for-the-badge&logo=web&logoColor=white)](https://0x8c.org)
+
 <a href="https://www.buymeacoffee.com/tifflabs"><img
     src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📚&slug=tifflabs&button_colour=ff0000&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
 

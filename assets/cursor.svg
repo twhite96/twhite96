@@ -1,5 +1,0 @@
-<svg width="10" height="15" viewBox="0 0 10 15">
-  <rect fill="transparent" width="7" height="15">
-    <animate attributeName="fill" values="#0F9E59;transparent" begin="0s" dur="2s" calcMode="discrete" repeatCount="indefinite" />
-  </rect>
-</svg>
