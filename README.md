@@ -1,6 +1,6 @@
 <p align="center"><img src="https://res.cloudinary.com/dfahg992n/image/upload/r_max/c_scale,w_250/v1704169611/Hacker_Cat_Desk_fbqj7m.png">
 
-<p align="center">$ whoami  <img width="8" height="10" src="assets/cursor.gif" />
+<p align="center">$ whoami <img width="8" height="10" src="assets/cursor.gif" />
 </p>
 
 Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a frontend developer in another life and while I was able to make good money and do challenging work, it wasn't my jam. So I've pivoted to cybersecurity.
