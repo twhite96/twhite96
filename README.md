@@ -1,4 +1,4 @@
-<p align="center">$ whoami<span><img src="./assets/cursor.svg" /><span></p>
+<p align="center">$ whoami<span><img src="assets/cursor.svg" /><span></p>
 
 
 Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a frontend developer in another life and while I was able to make good money and do challenging work, it wasn't my jam. So I've pivoted to cybersecurity.
