@@ -19,23 +19,32 @@ Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a f
       <th>
         Stats
       </th>
-      <th>
-        Streak
-      </th>
   </thead>
   <tbody>
     <tr>
       <td valign="top" width="50%">
          <img src="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&count_private=true&theme=buefy&hide_border=true&rank_icon=percentile" />
       </td>
-      <td valign="top" width="50%">
-        <img src="https://streak-stats.demolab.com?user=twhite96&theme=buefy&hide_border=true" />
-      </td>
     </tr>
-  </tbody>
-    
+  </tbody>  
 </table>
 
+
+<table>
+  <thead>
+    <tr>
+      <th>
+        Streak
+      </th>
+  </thead>
+  <tbody>
+    <td valign="top" width="100%">
+      <img src="https://streak-stats.demolab.com?user=twhite96&theme=buefy&hide_border=true" />
+    </td>
+  </tbody>
+  </table>
+
+  
 
 ## 🪛🔧 Tools of the Trade
 
@@ -76,8 +85,6 @@ Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a f
     <tr>      
       <th>Infrastructure</th>
       <th>OS</th>
-      <th>Tools</th>
-      <th>Miscellanea</th>
     </tr>
   </thead>      
   <tbody>
@@ -99,21 +106,6 @@ Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a f
         <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white">
         <img src="https://img.shields.io/badge/Ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white">
       </td>
-      <td>
-        <img src="https://img.shields.io/badge/neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white">
-        <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-        <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-        <img src="https://img.shields.io/badge/goland-000000?style=for-the-badge&logo=goland&logoColor=white">
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Jekyll-CC0000?style=for-the-badge&logo=Jekyll&logoColor=white">
-        <img src="https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white">
-        <img src="https://img.shields.io/badge/bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white">
-        <img src="https://img.shields.io/badge/warp-01A4FF?style=for-the-badge&logo=warp&logoColor=white">
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-        <img src="https://img.shields.io/badge/torbrowser-7d4698?style=for-the-badge&logo=torbrowser&logoColor=white">
-        <img src="https://img.shields.io/badge/arc-fcbfbd?style=for-the-badge&logo=arc&logoColor=white">
-      </td>
     </tr>
   </tbody>    
 </table>
@@ -121,27 +113,17 @@ Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a f
 
 ## 💪 Stuff I've done
 > Some of my projects
-
 <table>
   <thead>      
     <tr>
-      <th>Libraries, toolkits, and gists</th>
       <th>Home Automation and HomeLab</th>
-      <th>Misc.</th>
   </thead>
   <tbody>
     <tr>
-      <td valign="top" width="33%">
-        <a href="https://gist.github.com/twhite96/b68308a684fcf6a801feaf45509f8cad"> <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/gist?id=b68308a684fcf6a801feaf45509f8cad"></a>
+      <td valign="top" width="100%">
         <a href="https://github.com/twhite96/tifflabs-ha-configs">
           <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=tifflabs-ha-configs">
         </a>
-        <a href="https://github.com/twhite96/ddos-script">
-          <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=ddos-script">
-        </a>
-        <a href="https://github.com/twhite96/simple-dns-enum-tool"><img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=simple-dns-enum-tool"></a>
-      </td>
-      <td valign="top" width="33%">
        <a href="https://gist.github.com/twhite96/3985bf2d68eb0a6c9aedbacdb13600c2">
         <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/gist?id=3985bf2d68eb0a6c9aedbacdb13600c2">
        </a>
@@ -149,13 +131,40 @@ Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a f
        <a href="https://github.com/twhite96/docker-mkdocs-material"><img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=docker-mkdocs-material"></a>
        <a href="https://github.com/twhite96/tifflabs"><img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=tifflabs"></a>
       </td>
-      <td valign="top" width="33%">
+    </tr>
+  </tbody>    
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Libraries, toolkits, and gists</th>
+    </tr>
+  </thead>
+  <tr>
+      <td valign="top" width="100%">
+        <a href="https://gist.github.com/twhite96/b68308a684fcf6a801feaf45509f8cad"> <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/gist?id=b68308a684fcf6a801feaf45509f8cad"></a>
+        <a href="https://github.com/twhite96/ddos-script">
+          <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=ddos-script">
+        </a>
+        <a href="https://github.com/twhite96/simple-dns-enum-tool"><img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=simple-dns-enum-tool"></a>
+      </td>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>
+        Misc.
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+     <td valign="top" width="100%">
         <a href="https://github.com/twhite96/dot-files"><img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=dot-files"></a>
         <a href="https://github.com/twhite96/uses"><img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=uses"></a>
         <a href="https://github.com/twhite96/nvim-configs"><img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=neovim-configs"></a>
         <a href="https://github.com/twhite96/hacking-books"><img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=hacking-books"></a>
       </td>
-    </tr>
-  </tbody>    
+  </tbody>
 </table>
-
