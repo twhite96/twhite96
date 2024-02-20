@@ -7,8 +7,8 @@ Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a f
 
 [![Open blog](https://img.shields.io/badge/Open-blog-563D7C?style=for-the-badge&logo=web&logoColor=white)](https://0x8c.org)
 
-<a href="https://www.buymeacoffee.com/tifflabs"><img
-    src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📚&slug=tifflabs&button_colour=ff0000&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+<!--<a href="https://www.buymeacoffee.com/tifflabs"><img
+    src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📚&slug=tifflabs&button_colour=ff0000&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00" /></a> -->
 
 ## 👤 Profile
 > Semi-interesting GitHub Facts about me
