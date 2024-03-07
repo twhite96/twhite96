@@ -7,43 +7,13 @@ Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a f
 
 [![Open blog](https://img.shields.io/badge/Open-blog-563D7C?style=for-the-badge&logo=web&logoColor=white)](https://0x8c.org)
 
-<!--<a href="https://www.buymeacoffee.com/tifflabs"><img
-    src="https://img.buymeacoffee.com/button-api/?text=Buy me a book&emoji=📚&slug=tifflabs&button_colour=ff0000&font_colour=ffffff&font_family=Bree&outline_colour=ffffff&coffee_colour=FFDD00" /></a> -->
 
-## 👤 Profile
-> Semi-interesting GitHub Facts about me
+## 🗣️ Braggin'
 
-<table>
-  <thead>
-    <tr>
-      <th>
-        Stats
-      </th>
-  </thead>
-  <tbody>
-    <tr>
-      <td valign="top" width="50%">
-         <img src="https://github-readme-stats.vercel.app/api?username=twhite96&show_icons=true&count_private=true&theme=buefy&hide_border=true&rank_icon=percentile" />
-      </td>
-    </tr>
-  </tbody>  
-</table>
-
-
-<table>
-  <thead>
-    <tr>
-      <th>
-        Streak
-      </th>
-  </thead>
-  <tbody>
-    <td valign="top" width="100%">
-      <img src="https://streak-stats.demolab.com?user=twhite96&theme=buefy&hide_border=true" />
-    </td>
-  </tbody>
-  </table>
-
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=twhite96&row=3&column=3&margin-w=15&margin-h=15&theme=discord" alt="trophies" /></a>
+</p>
   
 
 ## 🪛🔧 Tools of the Trade
