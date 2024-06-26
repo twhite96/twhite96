@@ -24,7 +24,7 @@ Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a f
   <thead>      
     <tr>
       <th>Frontend</th>
-      <th>Backend</th>
+      <th>Languages</th>
       <th>Database</th>
   </thead>
   <tbody>
