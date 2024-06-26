@@ -55,6 +55,7 @@ Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a f
     <tr>      
       <th>Infrastructure</th>
       <th>OS</th>
+      <th>Tools</th>
     </tr>
   </thead>      
   <tbody>
@@ -75,6 +76,12 @@ Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a f
         <img src="https://img.shields.io/badge/Debian-d70a53?style=for-the-badge&logo=debian&logoColor=white">
         <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white">
         <img src="https://img.shields.io/badge/Ubuntu-dd4814?style=for-the-badge&logo=ubuntu&logoColor=white">
+      </td>
+      <td>
+        <img alt="Powershell" src="https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white">
+        <img alt="Arc Browser" src="https://img.shields.io/badge/Arc-FCBFBD?style=for-the-badge&logo=Arc&logoColor=white&labelColor=FCBFBD">
+        <img alt="Neovim" src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white">
+       <img alt="Gitea" src="https://img.shields.io/badge/Gitea-609926?style=for-the-badge&logo=Gitea&logoColor=white">
       </td>
     </tr>
   </tbody>    
