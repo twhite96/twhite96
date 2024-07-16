@@ -60,7 +60,6 @@ Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a f
   </thead>
   <tr>
       <td valign="top" width="50%">
-        <a href="https://gist.github.com/twhite96/b68308a684fcf6a801feaf45509f8cad"> <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/gist?id=b68308a684fcf6a801feaf45509f8cad"></a>
         <a href="https://github.com/twhite96/ddos-script">
           <img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=ddos-script">
         </a>
@@ -68,7 +67,6 @@ Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a f
       </td>
     <td valign="top" width="50%">
         <a href="https://github.com/twhite96/dot-files"><img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=dot-files"></a>
-        <a href="https://github.com/twhite96/uses"><img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=uses"></a>
         <a href="https://github.com/twhite96/nvim-configs"><img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=neovim-configs"></a>
       </td>
   </tr>
