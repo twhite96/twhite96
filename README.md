@@ -1,4 +1,4 @@
-<p align="center"><img src="https://res.cloudinary.com/dfahg992n/image/upload/r_max/c_scale,w_250/v1704169611/Hacker_Cat_Desk_fbqj7m.png">
+<!--<p align="center"><img src="https://res.cloudinary.com/dfahg992n/image/upload/r_max/c_scale,w_250/v1704169611/Hacker_Cat_Desk_fbqj7m.png">-->
 
 <p align="center">$ whoami <img width="10" height="16" src="assets/cursor.gif" />
 </p>
@@ -51,7 +51,7 @@ Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a f
 </table>
 
 
-## 💪 Stuff I've done
+<!--## 💪 Stuff I've done
 > Some of my projects
 <table>
   <thead>
@@ -70,5 +70,5 @@ Hi! I'm tiff a lifelong lover of all things that creep in the shadows. I was a f
         <a href="https://github.com/twhite96/nvim-configs"><img src="https://github-readme-stats-git-master-twhite96.vercel.app/api/pin/?username=twhite96&repo=neovim-configs"></a>
       </td>
   </tr>
-</table>
+</table>-->
 
