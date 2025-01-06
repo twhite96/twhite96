@@ -33,6 +33,6 @@ Building stuff and writing stuff about the stuff I am building.
   <img src="https://img.shields.io/badge/wezterm-4E49EE?style=for-the-badge&logo=wezterm&logoColor=white"/>
   <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
   <a href="https://ghostty.org">
-      <img src="https://img.shields.io/badge/ghostty-00AEF0?style=for-the-badge&logo=ghostery&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ghostty-3651F3?style=for-the-badge&logo=ghostery&logoColor=white"/>
   </a>
 </p>
