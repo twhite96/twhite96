@@ -6,7 +6,7 @@ Building stuff and writing stuff about the stuff I am building.
 
 - [Writing](https://tiff.engineer)
 - [About](https://about.tiff.engineer)
-- [Thoughts](https://micro.tiff.engineer)
+- [Thoughts](https://yaks.tiff.engineer)
 
 ## Languages
 
