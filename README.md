@@ -23,10 +23,10 @@ Building stuff and writing stuff about the stuff I am building.
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white"/>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white"/><br />
-  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" /><br />
+  <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" />
   <a href="https://ghostty.org">
       <img src="https://img.shields.io/badge/ghostty-3651F3?style=for-the-badge&logo=ghostery&logoColor=white"/>
-  </a>
+  </a><br />
   <a href="https://wakatime.com/@tiff">
     <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" />
   </a>
