@@ -21,7 +21,7 @@ Building stuff and writing stuff about the stuff I am building.
 ## Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/><br />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
  <a href="https://wiki.cachyos.org">
    <img src="https://img.shields.io/badge/Cachy_OS-04AA88?style=for-the-badge&logo=cheerio&logoColor=white"/>
  </a>
