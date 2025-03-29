@@ -34,9 +34,9 @@ Building stuff and writing stuff about the stuff I am building.
   <a href="https://wakatime.com/@tiff">
     <img src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white" />
   </a>
-   <a href="https://codeberg.org/tiff">
-    <img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white" />
-  </a>
+  <!--  <a href="https://codeberg.org/tiff"> -->
+  <!--   <img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white" /> -->
+  <!-- </a> -->
   <!-- <a href="https://git.tiff.engineer"> -->
   <!--   <img src="https://img.shields.io/badge/Gitea-D26878?style=for-the-badge&logo=Gitea&logoColor=white" /> -->
   <!-- </a> -->
