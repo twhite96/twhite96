@@ -42,7 +42,7 @@ Building stuff and writing stuff about the stuff I am building.
    <img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white" />
   </a>
 
-## Socials
+## Contact
 
 <p align="center">
   <a href="https://matrix.to/#/@100pdatcat:matrix.org">
