@@ -41,10 +41,17 @@ Building stuff and writing stuff about the stuff I am building.
   <a href="https://codeberg.org/tiff">
    <img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white" />
   </a>
+
+## Socials
+
+<p align="center">
   <a href="https://matrix.to/#/@100pdatcat:matrix.org">
-    <img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" />
+      <img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" />
   </a>
-  
+  <a href="mailto:jfjjgvk-labs@pm.me">
+    <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
+  </a>
+</p>
   
   <!-- <a href="https://git.tiff.engineer"> -->
   <!--   <img src="https://img.shields.io/badge/Gitea-D26878?style=for-the-badge&logo=Gitea&logoColor=white" /> -->
