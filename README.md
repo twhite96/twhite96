@@ -3,15 +3,15 @@
 Building stuff and writing stuff about the stuff I am building.
 
 > [!NOTE]\
-> This account is soon going to be just a mirror to my personal [Gitea server](https://git.tiff.engineer). I'm trying to reclaim whatever I have left of my web identity.
+> This account is soon going to be just a mirror to my personal [Gitea server](https://git.tiff.run). I'm trying to reclaim whatever I have left of my web identity.
 >
 
 ## More
 
-- [Writing](https://tiff.engineer)
-- [About](https://about.tiff.engineer)
-- [Thoughts](https://yaks.tiff.engineer)
-- [Notes](https://notes.tiff.engineer)
+- [Writing](https://tiff.run)
+- [About](https://about.tiff.run)
+- [Thoughts](https://yaks.tiff.run)
+- [Notes](https://notes.tiff.run)
 
 ## Languages
 
