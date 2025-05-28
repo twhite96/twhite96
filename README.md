@@ -40,7 +40,7 @@ Building stuff and writing stuff about the stuff I am building.
    <img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white" />
   </a>
 
-## Socials
+## Contact/Socials
 <p align="center">
   <a href="https://makertube.net/c/tiff_does_tech/">
     <img src="https://img.shields.io/badge/MakerTube-F1680D?style=for-the-badge&logo=peertube&logoColor=white" />
@@ -51,15 +51,12 @@ Building stuff and writing stuff about the stuff I am building.
     <a href="https://matrix.to/#/@100pdatcat:matrix.org">
       <img src="https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white" />
   </a>
-</p>
-
-## Contact
-
-<p align="center">
   <a href="mailto:jfjjgvk-labs@pm.me">
     <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
 </p>
+
+
   
   <!-- <a href="https://git.tiff.engineer"> -->
   <!--   <img src="https://img.shields.io/badge/Gitea-D26878?style=for-the-badge&logo=Gitea&logoColor=white" /> -->
