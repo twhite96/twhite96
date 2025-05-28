@@ -18,7 +18,7 @@ Building stuff and writing stuff about the stuff I am building.
 <p align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/Astro-0C1222?style=for-the-badge&logo=astro&logoColor=FDFDFE"/>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
 </p>
 
@@ -40,12 +40,22 @@ Building stuff and writing stuff about the stuff I am building.
    <img src="https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white" />
   </a>
 
+## Socials
+<p align="center">
+  <a href="https://makertube.net/c/tiff_does_tech/">
+    <img src="https://img.shields.io/badge/MakerTube-F1680D?style=for-the-badge&logo=peertube&logoColor=white" />
+  </a>
+    <a href="https://matrix.to/#/@100pdatcat:matrix.org">
+      <img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" />
+  </a>
+    <a href="https://matrix.to/#/@100pdatcat:matrix.org">
+      <img src="https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white" />
+  </a>
+</p>
+
 ## Contact
 
 <p align="center">
-  <a href="https://matrix.to/#/@100pdatcat:matrix.org">
-      <img src="https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white" />
-  </a>
   <a href="mailto:jfjjgvk-labs@pm.me">
     <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" />
   </a>
