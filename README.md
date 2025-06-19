@@ -3,7 +3,7 @@
 Building stuff and writing stuff about the stuff I am building.
 
 > [!NOTE]\
-> This account is soon going to be just a mirror to my personal [Gitea server](https://git.tiff.run). I'm trying to reclaim whatever I have left of my web identity.
+> This account is soon going to be just a mirror to my personal [Gitea server](https://forgejo.tiff.run). I'm trying to reclaim whatever I have left of my web identity.
 >
 
 ## More
